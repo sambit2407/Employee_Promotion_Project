@@ -1,0 +1,36 @@
+2022-04-27/08:10:18		Entered the get_data method of the Data_Getter_training class
+2022-04-27/08:10:18		Exception occured in get_data method of the Data_Getter class. Exception message: [Errno 2] No such file or directory: 'data/training.csv'
+2022-04-27/08:10:18		Data Load Unsuccessful.Exited the get_data method of the Data_Getter class
+2022-04-27/08:10:34		Entered the get_data method of the Data_Getter_training class
+2022-04-27/08:10:34		Exception occured in get_data method of the Data_Getter class. Exception message: [Errno 2] No such file or directory: '../data/training.csv'
+2022-04-27/08:10:34		Data Load Unsuccessful.Exited the get_data method of the Data_Getter class
+2022-04-27/08:10:55		Entered the get_data method of the Data_Getter_training class
+2022-04-27/08:10:55		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-04-27/08:12:31		Entered the get_data method of the Data_Getter_training class
+2022-04-27/08:12:31		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-04-27/08:12:44		Entered the get_data method of the Data_Getter_training class
+2022-04-27/08:12:44		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-04-27/08:14:39		Entered the get_data method of the Data_Getter_training class
+2022-04-27/08:14:39		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-04-27/08:45:26		Entered the get_data method of the Data_Getter_training class
+2022-04-27/08:45:26		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-04-27/08:45:44		Entered the get_data method of the Data_Getter_training class
+2022-04-27/08:45:44		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-04-27/08:46:13		Entered the get_data method of the Data_Getter_training class
+2022-04-27/08:46:13		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-04-27/08:46:24		Entered the get_data method of the Data_Getter_training class
+2022-04-27/08:46:24		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-04-27/08:46:34		Entered the get_data method of the Data_Getter_training class
+2022-04-27/08:46:34		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-04-27/08:46:44		Entered the get_data method of the Data_Getter_training class
+2022-04-27/08:46:44		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-04-27/08:46:54		Entered the get_data method of the Data_Getter_training class
+2022-04-27/08:46:54		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-04-27/08:47:20		Entered the get_data method of the Data_Getter_training class
+2022-04-27/08:47:20		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-04-27/08:49:59		Entered the get_data method of the Data_Getter_training class
+2022-04-27/08:49:59		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-04-27/08:58:55		Entered the get_data method of the Data_Getter_training class
+2022-04-27/08:58:55		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-04-27/08:58:55		Entered the get_data method of the Data_Getter_training class
+2022-04-27/08:58:55		Data Load Successful.Exited the get_data method of the Data_Getter class

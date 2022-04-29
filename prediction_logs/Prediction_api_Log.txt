@@ -1,0 +1,9 @@
+2022-04-27/14:11:26		Start of Prediction of api....
+2022-04-27/14:11:26		datafor ML:           department     region  ... KPIs_met >80% awards_won?
+0         Technology  region_26  ...           NaN         NaN
+0  Sales & Marketing   region_7  ...           1.0         0.0
+1         Operations  region_22  ...           0.0         0.0
+2  Sales & Marketing  region_19  ...           0.0         0.0
+3  Sales & Marketing  region_23  ...           0.0         0.0
+
+[5 rows x 15 columns]

@@ -1,0 +1,1889 @@
+2022-04-27/14:12:25		Start of Prediction of api....
+2022-04-27/14:12:25		datafor ML:           department     region  ... KPIs_met >80% awards_won?
+0         Technology  region_26  ...           NaN         NaN
+0  Sales & Marketing   region_7  ...           1.0         0.0
+1         Operations  region_22  ...           0.0         0.0
+2  Sales & Marketing  region_19  ...           0.0         0.0
+3  Sales & Marketing  region_23  ...           0.0         0.0
+
+[5 rows x 15 columns]
+2022-04-27/14:15:43		Start of Prediction of api....
+2022-04-27/14:15:43		datafor ML:           department     region  ... KPIs_met >80% awards_won?
+0         Technology  region_26  ...           NaN         NaN
+0  Sales & Marketing   region_7  ...           1.0         0.0
+1         Operations  region_22  ...           0.0         0.0
+2  Sales & Marketing  region_19  ...           0.0         0.0
+3  Sales & Marketing  region_23  ...           0.0         0.0
+
+[5 rows x 15 columns]
+2022-04-27/14:15:43		Entered the encode_categorical_columns method of the Preprocessor class
+2022-04-27/14:15:43		Exception occured in encode_categorical_columns method of the Preprocessor class. Exception message:  'Column not found: is_promoted'
+2022-04-27/14:15:43		encoding for categorical columns Failed. Exited the encode_categorical_columns method of the Preprocessor class
+2022-04-27/14:43:24		Start of Prediction of api....
+2022-04-27/14:43:24		datafor ML:           department     region  ... KPIs_met >80% awards_won?
+0         Technology  region_26  ...           NaN         NaN
+0  Sales & Marketing   region_7  ...           1.0         0.0
+1         Operations  region_22  ...           0.0         0.0
+2  Sales & Marketing  region_19  ...           0.0         0.0
+3  Sales & Marketing  region_23  ...           0.0         0.0
+
+[5 rows x 15 columns]
+2022-04-27/14:44:26		Start of Prediction of api....
+2022-04-27/14:44:26		datafor ML:           department     region  ... KPIs_met >80% awards_won?
+0         Technology  region_26  ...           NaN         NaN
+0  Sales & Marketing   region_7  ...           1.0         0.0
+1         Operations  region_22  ...           0.0         0.0
+2  Sales & Marketing  region_19  ...           0.0         0.0
+3  Sales & Marketing  region_23  ...           0.0         0.0
+
+[5 rows x 15 columns]
+2022-04-27/14:45:25		Start of Prediction of api....
+2022-04-27/14:45:25		datafor ML:           department     region  ... KPIs_met >80% awards_won?
+0         Technology  region_26  ...           NaN         NaN
+0  Sales & Marketing   region_7  ...           1.0         0.0
+1         Operations  region_22  ...           0.0         0.0
+2  Sales & Marketing  region_19  ...           0.0         0.0
+3  Sales & Marketing  region_23  ...           0.0         0.0
+
+[5 rows x 15 columns]
+2022-04-27/14:47:00		Start of Prediction of api....
+2022-04-27/14:47:00		datafor ML:           department     region  ... KPIs_met >80% awards_won?
+0         Technology  region_26  ...           NaN         NaN
+0  Sales & Marketing   region_7  ...           1.0         0.0
+1         Operations  region_22  ...           0.0         0.0
+2  Sales & Marketing  region_19  ...           0.0         0.0
+3  Sales & Marketing  region_23  ...           0.0         0.0
+
+[5 rows x 15 columns]
+2022-04-27/14:54:04		Start of Prediction of api....
+2022-04-27/14:54:05		datafor ML:           department     region  ... KPIs_met >80% awards_won?
+0         Technology  region_26  ...           NaN         NaN
+0  Sales & Marketing   region_7  ...           1.0         0.0
+1         Operations  region_22  ...           0.0         0.0
+2  Sales & Marketing  region_19  ...           0.0         0.0
+3  Sales & Marketing  region_23  ...           0.0         0.0
+
+[5 rows x 15 columns]
+2022-04-27/14:56:06		Start of Prediction of api....
+2022-04-27/14:56:06		datafor ML:           department     region  ... KPIs_met >80% awards_won?
+0         Technology  region_26  ...           NaN         NaN
+0  Sales & Marketing   region_7  ...           1.0         0.0
+1         Operations  region_22  ...           0.0         0.0
+2  Sales & Marketing  region_19  ...           0.0         0.0
+3  Sales & Marketing  region_23  ...           0.0         0.0
+
+[5 rows x 15 columns]
+2022-04-27/14:57:51		Start of Prediction of api....
+2022-04-27/14:57:52		datafor ML:           department     region  ... KPIs_met >80% awards_won?
+0         Technology  region_26  ...           NaN         NaN
+0  Sales & Marketing   region_7  ...           1.0         0.0
+1         Operations  region_22  ...           0.0         0.0
+2  Sales & Marketing  region_19  ...           0.0         0.0
+3  Sales & Marketing  region_23  ...           0.0         0.0
+
+[5 rows x 15 columns]
+2022-04-27/14:57:52		Entered the get_data method of the Data_Getter_training class
+2022-04-27/14:57:52		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-04-27/14:57:52		Entered the encode_categorical_columns method of the Preprocessor class
+2022-04-27/14:57:52		Exception occured in encode_categorical_columns method of the Preprocessor class. Exception message:  'Column not found: is_promoted'
+2022-04-27/14:57:52		encoding for categorical columns Failed. Exited the encode_categorical_columns method of the Preprocessor class
+2022-04-27/14:58:53		Start of Prediction of api....
+2022-04-27/14:58:54		datafor ML:           department     region  ... KPIs_met >80% awards_won?
+0         Technology  region_26  ...           NaN         NaN
+0  Sales & Marketing   region_7  ...           1.0         0.0
+1         Operations  region_22  ...           0.0         0.0
+2  Sales & Marketing  region_19  ...           0.0         0.0
+3  Sales & Marketing  region_23  ...           0.0         0.0
+
+[5 rows x 15 columns]
+2022-04-27/14:58:54		Entered the get_data method of the Data_Getter_training class
+2022-04-27/14:58:54		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-04-27/14:58:54		Entered the encode_categorical_columns method of the Preprocessor class
+2022-04-27/14:58:54		treating department column successfull
+2022-04-27/14:58:54		treating region column successfull
+2022-04-27/14:58:54		treating education column successfull
+2022-04-27/14:58:54		treating getting dummies for gender column successfull
+2022-04-27/14:58:54		Entered the scaling_of_Numcol method of the Preprocessor class
+2022-04-27/14:58:54		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-04-27/15:03:16		Start of Prediction of api....
+2022-04-27/15:03:16		datafor ML:           department     region  ... KPIs_met >80% awards_won?
+0         Technology  region_26  ...           NaN         NaN
+0  Sales & Marketing   region_7  ...           1.0         0.0
+1         Operations  region_22  ...           0.0         0.0
+2  Sales & Marketing  region_19  ...           0.0         0.0
+3  Sales & Marketing  region_23  ...           0.0         0.0
+
+[5 rows x 15 columns]
+2022-04-27/15:03:16		Entered the get_data method of the Data_Getter_training class
+2022-04-27/15:03:16		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-04-27/15:03:16		Entered the encode_categorical_columns method of the Preprocessor class
+2022-04-27/15:03:16		treating department column successfull
+2022-04-27/15:03:16		treating region column successfull
+2022-04-27/15:03:16		treating education column successfull
+2022-04-27/15:03:17		treating getting dummies for gender column successfull
+2022-04-27/15:03:17		Entered the scaling_of_Numcol method of the Preprocessor class
+2022-04-27/15:03:17		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-04-27/15:03:55		Start of Prediction of api....
+2022-04-27/15:03:55		datafor ML:           department     region  ... KPIs_met >80% awards_won?
+0         Technology  region_26  ...           NaN         NaN
+0  Sales & Marketing   region_7  ...           1.0         0.0
+1         Operations  region_22  ...           0.0         0.0
+2  Sales & Marketing  region_19  ...           0.0         0.0
+3  Sales & Marketing  region_23  ...           0.0         0.0
+
+[5 rows x 15 columns]
+2022-04-27/15:03:55		Entered the get_data method of the Data_Getter_training class
+2022-04-27/15:03:55		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-04-27/15:03:55		Entered the encode_categorical_columns method of the Preprocessor class
+2022-04-27/15:03:55		treating department column successfull
+2022-04-27/15:03:55		treating region column successfull
+2022-04-27/15:03:55		treating education column successfull
+2022-04-27/15:03:55		treating getting dummies for gender column successfull
+2022-04-27/15:03:55		Entered the scaling_of_Numcol method of the Preprocessor class
+2022-04-27/15:03:55		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-04-27/15:05:41		Start of Prediction of api....
+2022-04-27/15:05:42		datafor ML:           department     region  ... KPIs_met >80% awards_won?
+0         Technology  region_26  ...           NaN         NaN
+0  Sales & Marketing   region_7  ...           1.0         0.0
+1         Operations  region_22  ...           0.0         0.0
+2  Sales & Marketing  region_19  ...           0.0         0.0
+3  Sales & Marketing  region_23  ...           0.0         0.0
+
+[5 rows x 15 columns]
+2022-04-27/15:06:09		Start of Prediction of api....
+2022-04-27/15:06:09		datafor ML:           department     region  ... KPIs_met >80% awards_won?
+0         Technology  region_26  ...           NaN         NaN
+0  Sales & Marketing   region_7  ...           1.0         0.0
+1         Operations  region_22  ...           0.0         0.0
+2  Sales & Marketing  region_19  ...           0.0         0.0
+3  Sales & Marketing  region_23  ...           0.0         0.0
+
+[5 rows x 15 columns]
+2022-04-27/15:06:09		column has been removed
+2022-04-27/15:06:41		Start of Prediction of api....
+2022-04-27/15:06:41		datafor ML:           department     region  ... KPIs_met >80% awards_won?
+0         Technology  region_26  ...           NaN         NaN
+0  Sales & Marketing   region_7  ...           1.0         0.0
+1         Operations  region_22  ...           0.0         0.0
+2  Sales & Marketing  region_19  ...           0.0         0.0
+3  Sales & Marketing  region_23  ...           0.0         0.0
+
+[5 rows x 15 columns]
+2022-04-27/15:06:41		column has been removed
+2022-04-27/15:06:41		Entered the is_null_present method of the Preprocessor class
+2022-04-27/15:06:41		Exception occured in is_null_present method of the Preprocessor class. Exception message:  Grouper for 'KPIs_met' not 1-dimensional
+2022-04-27/15:06:41		Finding missing values failed. Exited the is_null_present method of the Preprocessor class
+2022-04-27/15:07:04		Start of Prediction of api....
+2022-04-27/15:07:04		datafor ML:           department     region  ... KPIs_met >80% awards_won?
+0         Technology  region_26  ...           NaN         NaN
+0  Sales & Marketing   region_7  ...           1.0         0.0
+1         Operations  region_22  ...           0.0         0.0
+2  Sales & Marketing  region_19  ...           0.0         0.0
+3  Sales & Marketing  region_23  ...           0.0         0.0
+
+[5 rows x 15 columns]
+2022-04-27/15:07:04		column has been removed
+2022-04-27/15:07:04		Entered the is_null_present method of the Preprocessor class
+2022-04-27/15:07:04		Exception occured in is_null_present method of the Preprocessor class. Exception message:  Grouper for 'KPIs_met' not 1-dimensional
+2022-04-27/15:07:04		Finding missing values failed. Exited the is_null_present method of the Preprocessor class
+2022-04-27/15:14:01		Start of Prediction of api....
+2022-04-27/15:14:02		datafor ML:           department     region  ... KPIs_met >80% awards_won?
+0         Technology  region_26  ...           NaN         NaN
+0  Sales & Marketing   region_7  ...           1.0         0.0
+1         Operations  region_22  ...           0.0         0.0
+2  Sales & Marketing  region_19  ...           0.0         0.0
+3  Sales & Marketing  region_23  ...           0.0         0.0
+
+[5 rows x 15 columns]
+2022-04-27/15:14:02		column has been removed
+2022-04-27/15:14:02		Entered the is_null_present method of the Preprocessor class
+2022-04-27/15:14:02		Exception occured in is_null_present method of the Preprocessor class. Exception message:  Grouper for 'KPIs_met' not 1-dimensional
+2022-04-27/15:14:02		Finding missing values failed. Exited the is_null_present method of the Preprocessor class
+2022-04-27/15:16:35		Start of Prediction of api....
+2022-04-27/15:16:35		column has been removed
+2022-04-27/15:16:35		datafor ML:           department     region  ... awards_won avg_training_score
+0         Technology  region_26  ...          0                 77
+0  Sales & Marketing   region_7  ...          0                 49
+1         Operations  region_22  ...          0                 60
+2  Sales & Marketing  region_19  ...          0                 50
+3  Sales & Marketing  region_23  ...          0                 50
+
+[5 rows x 12 columns]
+2022-04-27/15:16:35		Error in droping_unnecessary_cols :  "['employee_id'] not found in axis"
+2022-04-27/15:16:35		Entered the is_null_present method of the Preprocessor class
+2022-04-27/21:16:21		Start of Prediction of api....
+2022-04-27/21:16:21		column has been removed
+2022-04-27/21:16:22		datafor ML:           department     region  ... awards_won? avg_training_score
+0         Technology  region_26  ...           0                 77
+0  Sales & Marketing   region_7  ...           0                 49
+1         Operations  region_22  ...           0                 60
+2  Sales & Marketing  region_19  ...           0                 50
+3  Sales & Marketing  region_23  ...           0                 50
+
+[5 rows x 12 columns]
+2022-04-27/21:16:22		Entered the is_null_present method of the Preprocessor class
+2022-04-27/21:16:22		Data has been treated
+2022-04-27/21:16:22		Entered the outlier treatment method of the Preprocessor class
+2022-04-27/21:16:22		Exception occured in Outlier TReatment Method of the Preprocessor class. Exception message:  'NoneType' object is not iterable
+2022-04-27/21:16:22		Outlier treatment failed. Exited the is_null_present method of the Preprocessor class
+2022-04-27/21:16:22		Entered the get_data method of the Data_Getter_training class
+2022-04-27/21:16:22		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-04-27/21:16:22		Entered the encode_categorical_columns method of the Preprocessor class
+2022-04-27/21:16:22		Exception occured in encode_categorical_columns method of the Preprocessor class. Exception message:  'module' object is not subscriptable
+2022-04-27/21:16:22		encoding for categorical columns Failed. Exited the encode_categorical_columns method of the Preprocessor class
+2022-04-27/21:17:07		Start of Prediction of api....
+2022-04-27/21:17:08		column has been removed
+2022-04-27/21:17:08		datafor ML:           department     region  ... awards_won? avg_training_score
+0         Technology  region_26  ...           0                 77
+0  Sales & Marketing   region_7  ...           0                 49
+1         Operations  region_22  ...           0                 60
+2  Sales & Marketing  region_19  ...           0                 50
+3  Sales & Marketing  region_23  ...           0                 50
+
+[5 rows x 12 columns]
+2022-04-27/21:17:08		Entered the is_null_present method of the Preprocessor class
+2022-04-27/21:17:08		Data has been treated
+2022-04-27/21:17:08		Entered the outlier treatment method of the Preprocessor class
+2022-04-27/21:17:08		Exception occured in Outlier TReatment Method of the Preprocessor class. Exception message:  'NoneType' object is not iterable
+2022-04-27/21:17:08		Outlier treatment failed. Exited the is_null_present method of the Preprocessor class
+2022-04-27/21:18:37		Start of Prediction of api....
+2022-04-27/21:18:37		column has been removed
+2022-04-27/21:18:37		datafor ML:           department     region  ... awards_won? avg_training_score
+0         Technology  region_26  ...           0                 77
+0  Sales & Marketing   region_7  ...           0                 49
+1         Operations  region_22  ...           0                 60
+2  Sales & Marketing  region_19  ...           0                 50
+3  Sales & Marketing  region_23  ...           0                 50
+
+[5 rows x 12 columns]
+2022-04-27/21:18:37		Entered the is_null_present method of the Preprocessor class
+2022-04-27/21:18:37		Data has been treated
+2022-04-27/21:18:37		Entered the outlier treatment method of the Preprocessor class
+2022-04-27/21:18:37		Exception occured in Outlier TReatment Method of the Preprocessor class. Exception message:  'NoneType' object is not iterable
+2022-04-27/21:18:37		Outlier treatment failed. Exited the is_null_present method of the Preprocessor class
+2022-04-27/21:18:37		Entered the get_data method of the Data_Getter_training class
+2022-04-27/21:18:37		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-04-27/21:18:37		Entered the encode_categorical_columns method of the Preprocessor class
+2022-04-27/21:18:37		Exception occured in encode_categorical_columns method of the Preprocessor class. Exception message:  'module' object is not subscriptable
+2022-04-27/21:18:37		encoding for categorical columns Failed. Exited the encode_categorical_columns method of the Preprocessor class
+2022-04-27/21:20:56		Start of Prediction of api....
+2022-04-27/21:20:56		column has been removed
+2022-04-27/21:20:56		datafor ML:           department     region  ... awards_won? avg_training_score
+0         Technology  region_26  ...           0                 77
+0  Sales & Marketing   region_7  ...           0                 49
+1         Operations  region_22  ...           0                 60
+2  Sales & Marketing  region_19  ...           0                 50
+3  Sales & Marketing  region_23  ...           0                 50
+
+[5 rows x 12 columns]
+2022-04-27/21:20:56		Entered the is_null_present method of the Preprocessor class
+2022-04-27/21:20:56		Data has been treated
+2022-04-27/21:20:56		Entered the outlier treatment method of the Preprocessor class
+2022-04-27/21:20:56		Exception occured in Outlier TReatment Method of the Preprocessor class. Exception message:  'NoneType' object is not iterable
+2022-04-27/21:20:56		Outlier treatment failed. Exited the is_null_present method of the Preprocessor class
+2022-04-27/21:20:56		Entered the get_data method of the Data_Getter_training class
+2022-04-27/21:20:56		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-04-27/21:20:56		Entered the encode_categorical_columns method of the Preprocessor class
+2022-04-27/21:20:56		Exception occured in encode_categorical_columns method of the Preprocessor class. Exception message:  'module' object is not subscriptable
+2022-04-27/21:20:56		encoding for categorical columns Failed. Exited the encode_categorical_columns method of the Preprocessor class
+2022-04-27/21:23:57		Start of Prediction of api....
+2022-04-27/21:23:58		column has been removed
+2022-04-27/21:23:58		datafor ML:           department     region  ... awards_won? avg_training_score
+0         Technology  region_26  ...           0                 77
+0  Sales & Marketing   region_7  ...           0                 49
+1         Operations  region_22  ...           0                 60
+2  Sales & Marketing  region_19  ...           0                 50
+3  Sales & Marketing  region_23  ...           0                 50
+
+[5 rows x 12 columns]
+2022-04-27/21:23:58		Entered the is_null_present method of the Preprocessor class
+2022-04-27/21:23:58		Data has been treated
+2022-04-27/21:23:58		Entered the outlier treatment method of the Preprocessor class
+2022-04-27/21:23:58		Exception occured in Outlier TReatment Method of the Preprocessor class. Exception message:  'NoneType' object is not iterable
+2022-04-27/21:23:58		Outlier treatment failed. Exited the is_null_present method of the Preprocessor class
+2022-04-27/21:23:58		Entered the get_data method of the Data_Getter_training class
+2022-04-27/21:23:58		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-04-27/21:23:58		Entered the encode_categorical_columns method of the Preprocessor class
+2022-04-27/21:23:58		Exception occured in encode_categorical_columns method of the Preprocessor class. Exception message:  'module' object is not subscriptable
+2022-04-27/21:23:58		encoding for categorical columns Failed. Exited the encode_categorical_columns method of the Preprocessor class
+2022-04-27/21:25:10		Start of Prediction of api....
+2022-04-27/21:25:10		column has been removed
+2022-04-27/21:25:11		datafor ML:           department     region  ... awards_won? avg_training_score
+0         Technology  region_26  ...           0                 77
+0  Sales & Marketing   region_7  ...           0                 49
+1         Operations  region_22  ...           0                 60
+2  Sales & Marketing  region_19  ...           0                 50
+3  Sales & Marketing  region_23  ...           0                 50
+
+[5 rows x 12 columns]
+2022-04-27/21:25:11		Entered the is_null_present method of the Preprocessor class
+2022-04-27/21:25:11		Data has been treated
+2022-04-27/21:25:11		Entered the outlier treatment method of the Preprocessor class
+2022-04-27/21:25:11		Exception occured in Outlier TReatment Method of the Preprocessor class. Exception message:  'NoneType' object is not iterable
+2022-04-27/21:25:11		Outlier treatment failed. Exited the is_null_present method of the Preprocessor class
+2022-04-27/21:25:11		Entered the get_data method of the Data_Getter_training class
+2022-04-27/21:25:11		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-04-27/21:25:11		Entered the encode_categorical_columns method of the Preprocessor class
+2022-04-27/21:25:11		Exception occured in encode_categorical_columns method of the Preprocessor class. Exception message:  'module' object is not subscriptable
+2022-04-27/21:25:11		encoding for categorical columns Failed. Exited the encode_categorical_columns method of the Preprocessor class
+2022-04-27/21:25:35		Start of Prediction of api....
+2022-04-27/21:25:35		column has been removed
+2022-04-27/21:25:36		datafor ML:           department     region  ... awards_won? avg_training_score
+0         Technology  region_26  ...           0                 77
+0  Sales & Marketing   region_7  ...           0                 49
+1         Operations  region_22  ...           0                 60
+2  Sales & Marketing  region_19  ...           0                 50
+3  Sales & Marketing  region_23  ...           0                 50
+
+[5 rows x 12 columns]
+2022-04-27/21:25:36		Entered the is_null_present method of the Preprocessor class
+2022-04-27/21:25:36		Data has been treated
+2022-04-27/21:25:36		Entered the outlier treatment method of the Preprocessor class
+2022-04-27/21:25:36		Exception occured in Outlier TReatment Method of the Preprocessor class. Exception message:  'NoneType' object is not iterable
+2022-04-27/21:25:36		Outlier treatment failed. Exited the is_null_present method of the Preprocessor class
+2022-04-27/21:25:36		Entered the get_data method of the Data_Getter_training class
+2022-04-27/21:25:36		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-04-27/21:25:36		Entered the encode_categorical_columns method of the Preprocessor class
+2022-04-27/21:25:36		Exception occured in encode_categorical_columns method of the Preprocessor class. Exception message:  'module' object is not subscriptable
+2022-04-27/21:25:36		encoding for categorical columns Failed. Exited the encode_categorical_columns method of the Preprocessor class
+2022-04-27/21:27:18		Start of Prediction of api....
+2022-04-27/21:27:18		column has been removed
+2022-04-27/21:27:18		datafor ML:           department     region  ... awards_won? avg_training_score
+0         Technology  region_26  ...           0                 77
+0  Sales & Marketing   region_7  ...           0                 49
+1         Operations  region_22  ...           0                 60
+2  Sales & Marketing  region_19  ...           0                 50
+3  Sales & Marketing  region_23  ...           0                 50
+
+[5 rows x 12 columns]
+2022-04-27/21:27:18		Entered the is_null_present method of the Preprocessor class
+2022-04-27/21:27:19		Data has been treated
+2022-04-27/21:27:19		Entered the outlier treatment method of the Preprocessor class
+2022-04-27/21:27:19		Exception occured in Outlier TReatment Method of the Preprocessor class. Exception message:  'NoneType' object is not iterable
+2022-04-27/21:27:19		Outlier treatment failed. Exited the is_null_present method of the Preprocessor class
+2022-04-27/21:27:19		Entered the get_data method of the Data_Getter_training class
+2022-04-27/21:27:19		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-04-27/21:27:19		Entered the encode_categorical_columns method of the Preprocessor class
+2022-04-27/21:27:19		Exception occured in encode_categorical_columns method of the Preprocessor class. Exception message:  'module' object is not subscriptable
+2022-04-27/21:27:19		encoding for categorical columns Failed. Exited the encode_categorical_columns method of the Preprocessor class
+2022-04-27/21:27:40		Start of Prediction of api....
+2022-04-27/21:27:40		column has been removed
+2022-04-27/21:27:40		datafor ML:           department     region  ... awards_won? avg_training_score
+0         Technology  region_26  ...           0                 77
+0  Sales & Marketing   region_7  ...           0                 49
+1         Operations  region_22  ...           0                 60
+2  Sales & Marketing  region_19  ...           0                 50
+3  Sales & Marketing  region_23  ...           0                 50
+
+[5 rows x 12 columns]
+2022-04-27/21:27:40		Entered the is_null_present method of the Preprocessor class
+2022-04-27/21:27:41		Data has been treated
+2022-04-27/21:27:41		Entered the outlier treatment method of the Preprocessor class
+2022-04-27/21:27:41		Exception occured in Outlier TReatment Method of the Preprocessor class. Exception message:  'NoneType' object is not iterable
+2022-04-27/21:27:41		Outlier treatment failed. Exited the is_null_present method of the Preprocessor class
+2022-04-27/21:27:41		Entered the get_data method of the Data_Getter_training class
+2022-04-27/21:27:41		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-04-27/21:27:41		Entered the encode_categorical_columns method of the Preprocessor class
+2022-04-27/21:27:41		Exception occured in encode_categorical_columns method of the Preprocessor class. Exception message:  'module' object is not subscriptable
+2022-04-27/21:27:41		encoding for categorical columns Failed. Exited the encode_categorical_columns method of the Preprocessor class
+2022-04-27/21:43:14		Start of Prediction of api....
+2022-04-27/21:43:14		column has been removed
+2022-04-27/21:43:15		datafor ML:           department     region  ... awards_won? avg_training_score
+0         Technology  region_26  ...           0                 77
+0  Sales & Marketing   region_7  ...           0                 49
+1         Operations  region_22  ...           0                 60
+2  Sales & Marketing  region_19  ...           0                 50
+3  Sales & Marketing  region_23  ...           0                 50
+
+[5 rows x 12 columns]
+2022-04-27/21:43:15		Entered the is_null_present method of the Preprocessor class
+2022-04-27/21:43:15		Data has been treated
+2022-04-27/21:43:52		Start of Prediction of api....
+2022-04-27/21:43:52		column has been removed
+2022-04-27/21:43:53		datafor ML:           department     region  ... awards_won? avg_training_score
+0         Technology  region_26  ...           0                 77
+0  Sales & Marketing   region_7  ...           0                 49
+1         Operations  region_22  ...           0                 60
+2  Sales & Marketing  region_19  ...           0                 50
+3  Sales & Marketing  region_23  ...           0                 50
+
+[5 rows x 12 columns]
+2022-04-27/21:43:53		Entered the is_null_present method of the Preprocessor class
+2022-04-27/21:43:53		Data has been treated
+2022-04-27/21:44:15		Start of Prediction of api....
+2022-04-27/21:44:15		column has been removed
+2022-04-27/21:44:15		datafor ML:           department     region  ... awards_won? avg_training_score
+0         Technology  region_26  ...           0                 77
+0  Sales & Marketing   region_7  ...           0                 49
+1         Operations  region_22  ...           0                 60
+2  Sales & Marketing  region_19  ...           0                 50
+3  Sales & Marketing  region_23  ...           0                 50
+
+[5 rows x 12 columns]
+2022-04-27/21:44:15		Entered the is_null_present method of the Preprocessor class
+2022-04-27/21:44:16		Data has been treated
+2022-04-27/21:44:19		Entered the outlier treatment method of the Preprocessor class
+2022-04-27/21:44:19		Exception occured in Outlier TReatment Method of the Preprocessor class. Exception message:  'NoneType' object is not iterable
+2022-04-27/21:44:19		Outlier treatment failed. Exited the is_null_present method of the Preprocessor class
+2022-04-27/21:44:19		Entered the get_data method of the Data_Getter_training class
+2022-04-27/21:44:19		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-04-27/21:44:19		Entered the encode_categorical_columns method of the Preprocessor class
+2022-04-27/21:44:19		Exception occured in encode_categorical_columns method of the Preprocessor class. Exception message:  'module' object is not subscriptable
+2022-04-27/21:44:19		encoding for categorical columns Failed. Exited the encode_categorical_columns method of the Preprocessor class
+2022-04-27/21:44:51		Start of Prediction of api....
+2022-04-27/21:44:51		column has been removed
+2022-04-27/21:44:51		datafor ML:           department     region  ... awards_won? avg_training_score
+0         Technology  region_26  ...           0                 77
+0  Sales & Marketing   region_7  ...           0                 49
+1         Operations  region_22  ...           0                 60
+2  Sales & Marketing  region_19  ...           0                 50
+3  Sales & Marketing  region_23  ...           0                 50
+
+[5 rows x 12 columns]
+2022-04-27/21:44:51		Entered the is_null_present method of the Preprocessor class
+2022-04-27/21:44:52		Data has been treated
+2022-04-27/21:44:54		Entered the outlier treatment method of the Preprocessor class
+2022-04-27/21:44:54		Exception occured in Outlier TReatment Method of the Preprocessor class. Exception message:  'NoneType' object is not iterable
+2022-04-27/21:44:54		Outlier treatment failed. Exited the is_null_present method of the Preprocessor class
+2022-04-27/21:44:54		Entered the get_data method of the Data_Getter_training class
+2022-04-27/21:44:54		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-04-27/21:44:54		Entered the encode_categorical_columns method of the Preprocessor class
+2022-04-27/21:44:54		Exception occured in encode_categorical_columns method of the Preprocessor class. Exception message:  'module' object is not subscriptable
+2022-04-27/21:44:54		encoding for categorical columns Failed. Exited the encode_categorical_columns method of the Preprocessor class
+2022-04-27/21:48:10		Start of Prediction of api....
+2022-04-27/21:48:11		column has been removed
+2022-04-27/21:48:11		datafor ML:           department     region  ... awards_won? avg_training_score
+0         Technology  region_26  ...           0                 77
+0  Sales & Marketing   region_7  ...           0                 49
+1         Operations  region_22  ...           0                 60
+2  Sales & Marketing  region_19  ...           0                 50
+3  Sales & Marketing  region_23  ...           0                 50
+
+[5 rows x 12 columns]
+2022-04-27/21:48:11		Entered the is_null_present method of the Preprocessor class
+2022-04-27/21:48:11		Data has been treated
+2022-04-27/21:48:11		Entered the outlier treatment method of the Preprocessor class
+2022-04-27/21:48:11		Exception occured in Outlier TReatment Method of the Preprocessor class. Exception message:  'NoneType' object is not iterable
+2022-04-27/21:48:11		Outlier treatment failed. Exited the is_null_present method of the Preprocessor class
+2022-04-27/21:48:11		Entered the get_data method of the Data_Getter_training class
+2022-04-27/21:48:11		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-04-27/21:48:11		Entered the encode_categorical_columns method of the Preprocessor class
+2022-04-27/21:48:11		Exception occured in encode_categorical_columns method of the Preprocessor class. Exception message:  'module' object is not subscriptable
+2022-04-27/21:48:11		encoding for categorical columns Failed. Exited the encode_categorical_columns method of the Preprocessor class
+2022-04-27/21:50:53		Start of Prediction of api....
+2022-04-27/21:50:53		column has been removed
+2022-04-27/21:50:53		datafor ML:           department     region  ... awards_won? avg_training_score
+0         Technology  region_26  ...           0                 77
+0  Sales & Marketing   region_7  ...           0                 49
+1         Operations  region_22  ...           0                 60
+2  Sales & Marketing  region_19  ...           0                 50
+3  Sales & Marketing  region_23  ...           0                 50
+
+[5 rows x 12 columns]
+2022-04-27/21:50:53		Entered the is_null_present method of the Preprocessor class
+2022-04-27/21:50:54		Data has been treated
+2022-04-27/21:50:54		Entered the outlier treatment method of the Preprocessor class
+2022-04-27/21:50:54		Exception occured in Outlier TReatment Method of the Preprocessor class. Exception message:  'module' object is not subscriptable
+2022-04-27/21:50:54		Outlier treatment failed. Exited the is_null_present method of the Preprocessor class
+2022-04-27/21:50:54		Entered the get_data method of the Data_Getter_training class
+2022-04-27/21:50:54		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-04-27/21:50:54		Entered the encode_categorical_columns method of the Preprocessor class
+2022-04-27/21:50:54		Exception occured in encode_categorical_columns method of the Preprocessor class. Exception message:  'module' object is not subscriptable
+2022-04-27/21:50:54		encoding for categorical columns Failed. Exited the encode_categorical_columns method of the Preprocessor class
+2022-04-27/21:54:55		Start of Prediction of api....
+2022-04-27/21:54:55		column has been removed
+2022-04-27/21:54:55		datafor ML:           department     region  ... awards_won? avg_training_score
+0         Technology  region_26  ...           0                 77
+0  Sales & Marketing   region_7  ...           0                 49
+1         Operations  region_22  ...           0                 60
+2  Sales & Marketing  region_19  ...           0                 50
+3  Sales & Marketing  region_23  ...           0                 50
+
+[5 rows x 12 columns]
+2022-04-27/21:54:55		Entered the is_null_present method of the Preprocessor class
+2022-04-27/21:54:56		Data has been treated
+2022-04-27/21:54:56		Entered the outlier treatment method of the Preprocessor class
+2022-04-27/21:54:56		Exception occured in Outlier TReatment Method of the Preprocessor class. Exception message:  'module' object is not subscriptable
+2022-04-27/21:54:56		Outlier treatment failed. Exited the is_null_present method of the Preprocessor class
+2022-04-27/21:54:56		Entered the get_data method of the Data_Getter_training class
+2022-04-27/21:54:56		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-04-27/21:54:56		Entered the encode_categorical_columns method of the Preprocessor class
+2022-04-27/21:54:56		treating department column successfull
+2022-04-27/21:54:56		treating region column successfull
+2022-04-27/21:54:56		treating education column successfull
+2022-04-27/21:54:56		treating getting dummies for gender column successfull
+2022-04-27/21:54:56		Entered the scaling_of_Numcol method of the Preprocessor class
+2022-04-27/21:54:56		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-04-27/21:56:04		Start of Prediction of api....
+2022-04-27/21:56:05		column has been removed
+2022-04-27/21:56:05		datafor ML:           department     region  ... awards_won? avg_training_score
+0         Technology  region_26  ...           0                 77
+0  Sales & Marketing   region_7  ...           0                 49
+1         Operations  region_22  ...           0                 60
+2  Sales & Marketing  region_19  ...           0                 50
+3  Sales & Marketing  region_23  ...           0                 50
+
+[5 rows x 12 columns]
+2022-04-27/21:56:05		Entered the is_null_present method of the Preprocessor class
+2022-04-27/21:56:05		Data has been treated
+2022-04-27/21:56:05		Entered the outlier treatment method of the Preprocessor class
+2022-04-27/21:56:05		Exception occured in Outlier TReatment Method of the Preprocessor class. Exception message:  'module' object is not subscriptable
+2022-04-27/21:56:05		Outlier treatment failed. Exited the is_null_present method of the Preprocessor class
+2022-04-27/21:56:05		Entered the get_data method of the Data_Getter_training class
+2022-04-27/21:56:05		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-04-27/21:56:05		Entered the encode_categorical_columns method of the Preprocessor class
+2022-04-27/21:56:05		treating department column successfull
+2022-04-27/21:56:05		treating region column successfull
+2022-04-27/21:56:05		treating education column successfull
+2022-04-27/21:56:06		treating getting dummies for gender column successfull
+2022-04-27/21:56:06		Entered the scaling_of_Numcol method of the Preprocessor class
+2022-04-27/21:56:06		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-04-27/22:00:03		Start of Prediction of api....
+2022-04-27/22:00:03		column has been removed
+2022-04-27/22:00:03		datafor ML:           department     region  ... awards_won? avg_training_score
+0         Technology  region_26  ...           0                 77
+0  Sales & Marketing   region_7  ...           0                 49
+1         Operations  region_22  ...           0                 60
+2  Sales & Marketing  region_19  ...           0                 50
+3  Sales & Marketing  region_23  ...           0                 50
+
+[5 rows x 12 columns]
+2022-04-27/22:00:03		Entered the is_null_present method of the Preprocessor class
+2022-04-27/22:00:03		Data has been treated
+2022-04-27/22:00:03		Entered the outlier treatment method of the Preprocessor class
+2022-04-27/22:00:03		Exception occured in Outlier TReatment Method of the Preprocessor class. Exception message:  'module' object is not subscriptable
+2022-04-27/22:00:03		Outlier treatment failed. Exited the is_null_present method of the Preprocessor class
+2022-04-27/22:00:03		Entered the get_data method of the Data_Getter_training class
+2022-04-27/22:00:04		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-04-27/22:00:04		Entered the encode_categorical_columns method of the Preprocessor class
+2022-04-27/22:00:04		treating department column successfull
+2022-04-27/22:00:04		treating region column successfull
+2022-04-27/22:00:04		treating education column successfull
+2022-04-27/22:00:04		treating getting dummies for gender column successfull
+2022-04-27/22:00:04		Entered the scaling_of_Numcol method of the Preprocessor class
+2022-04-27/22:00:04		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-04-27/22:04:45		Start of Prediction of api....
+2022-04-27/22:04:45		column has been removed
+2022-04-27/22:04:45		datafor ML:           department     region  ... awards_won? avg_training_score
+0         Technology  region_26  ...           0                 77
+0  Sales & Marketing   region_7  ...           0                 49
+1         Operations  region_22  ...           0                 60
+2  Sales & Marketing  region_19  ...           0                 50
+3  Sales & Marketing  region_23  ...           0                 50
+
+[5 rows x 12 columns]
+2022-04-27/22:04:45		Entered the is_null_present method of the Preprocessor class
+2022-04-27/22:04:45		Data has been treated
+2022-04-27/22:04:45		Entered the outlier treatment method of the Preprocessor class
+2022-04-27/22:04:45		Exception occured in Outlier TReatment Method of the Preprocessor class. Exception message:  'module' object is not subscriptable
+2022-04-27/22:04:45		Outlier treatment failed. Exited the is_null_present method of the Preprocessor class
+2022-04-27/22:04:45		Entered the get_data method of the Data_Getter_training class
+2022-04-27/22:04:45		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-04-27/22:04:45		Entered the encode_categorical_columns method of the Preprocessor class
+2022-04-27/22:04:45		treating department column successfull
+2022-04-27/22:04:45		treating region column successfull
+2022-04-27/22:04:46		treating education column successfull
+2022-04-27/22:04:46		treating getting dummies for gender column successfull
+2022-04-27/22:04:46		Entered the scaling_of_Numcol method of the Preprocessor class
+2022-04-27/22:04:46		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-04-27/22:04:46		Input data for model: [[ 8.00000000e+00  2.26100000e+03  2.00000000e+00  2.40000000e+01
+  -4.41216254e+00  3.00000000e+00  1.00000000e+00  1.00000000e+00
+   0.00000000e+00  1.01806533e+00  0.00000000e+00  1.00000000e+00
+   0.00000000e+00  1.00000000e+00]]
+2022-04-27/22:04:46		Entered the load_model method of the File_Operation class
+2022-04-27/22:04:46		Exception occured in load_model method of the Model_Finder class. Exception message:  [Errno 2] No such file or directory: '../models/xgBoost/xgBoost.pkl'
+2022-04-27/22:04:46		Model File xgBoost could not be saved. Exited the load_model method of the Model_Finder class
+2022-04-27/22:07:52		Start of Prediction of api....
+2022-04-27/22:07:53		column has been removed
+2022-04-27/22:07:53		datafor ML:           department     region  ... awards_won? avg_training_score
+0         Technology  region_26  ...           0                 77
+0  Sales & Marketing   region_7  ...           0                 49
+1         Operations  region_22  ...           0                 60
+2  Sales & Marketing  region_19  ...           0                 50
+3  Sales & Marketing  region_23  ...           0                 50
+
+[5 rows x 12 columns]
+2022-04-27/22:07:53		Entered the is_null_present method of the Preprocessor class
+2022-04-27/22:07:53		Data has been treated
+2022-04-27/22:07:53		Entered the outlier treatment method of the Preprocessor class
+2022-04-27/22:07:53		Exception occured in Outlier TReatment Method of the Preprocessor class. Exception message:  'module' object is not subscriptable
+2022-04-27/22:07:53		Outlier treatment failed. Exited the is_null_present method of the Preprocessor class
+2022-04-27/22:07:53		Entered the get_data method of the Data_Getter_training class
+2022-04-27/22:07:53		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-04-27/22:07:53		Entered the encode_categorical_columns method of the Preprocessor class
+2022-04-27/22:07:53		treating department column successfull
+2022-04-27/22:07:53		treating region column successfull
+2022-04-27/22:07:53		treating education column successfull
+2022-04-27/22:07:53		treating getting dummies for gender column successfull
+2022-04-27/22:07:53		Entered the scaling_of_Numcol method of the Preprocessor class
+2022-04-27/22:07:53		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-04-27/22:07:53		Input data for model: [[ 8.00000000e+00  2.26100000e+03  2.00000000e+00  2.40000000e+01
+  -4.41216254e+00  3.00000000e+00  1.00000000e+00  1.00000000e+00
+   0.00000000e+00  1.01806533e+00  0.00000000e+00  1.00000000e+00
+   0.00000000e+00  1.00000000e+00]]
+2022-04-27/22:07:53		Entered the load_model method of the File_Operation class
+2022-04-27/22:07:53		Exception occured in load_model method of the Model_Finder class. Exception message:  [Errno 2] No such file or directory: '../models/FinalXGBModel.pkl/FinalXGBModel.pkl.pkl'
+2022-04-27/22:07:53		Model File FinalXGBModel.pkl could not be saved. Exited the load_model method of the Model_Finder class
+2022-04-27/22:08:11		Start of Prediction of api....
+2022-04-27/22:08:11		column has been removed
+2022-04-27/22:08:12		datafor ML:           department     region  ... awards_won? avg_training_score
+0         Technology  region_26  ...           0                 77
+0  Sales & Marketing   region_7  ...           0                 49
+1         Operations  region_22  ...           0                 60
+2  Sales & Marketing  region_19  ...           0                 50
+3  Sales & Marketing  region_23  ...           0                 50
+
+[5 rows x 12 columns]
+2022-04-27/22:08:12		Entered the is_null_present method of the Preprocessor class
+2022-04-27/22:08:12		Data has been treated
+2022-04-27/22:08:12		Entered the outlier treatment method of the Preprocessor class
+2022-04-27/22:08:12		Exception occured in Outlier TReatment Method of the Preprocessor class. Exception message:  'module' object is not subscriptable
+2022-04-27/22:08:12		Outlier treatment failed. Exited the is_null_present method of the Preprocessor class
+2022-04-27/22:08:12		Entered the get_data method of the Data_Getter_training class
+2022-04-27/22:08:12		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-04-27/22:08:12		Entered the encode_categorical_columns method of the Preprocessor class
+2022-04-27/22:08:12		treating department column successfull
+2022-04-27/22:08:12		treating region column successfull
+2022-04-27/22:08:12		treating education column successfull
+2022-04-27/22:08:12		treating getting dummies for gender column successfull
+2022-04-27/22:08:12		Entered the scaling_of_Numcol method of the Preprocessor class
+2022-04-27/22:08:12		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-04-27/22:08:12		Input data for model: [[ 8.00000000e+00  2.26100000e+03  2.00000000e+00  2.40000000e+01
+  -4.41216254e+00  3.00000000e+00  1.00000000e+00  1.00000000e+00
+   0.00000000e+00  1.01806533e+00  0.00000000e+00  1.00000000e+00
+   0.00000000e+00  1.00000000e+00]]
+2022-04-27/22:08:12		Entered the load_model method of the File_Operation class
+2022-04-27/22:08:12		Model File xgBoost loaded. Exited the load_model method of the Model_Finder class
+2022-04-29/11:26:03		Start of Prediction of api....
+2022-04-29/11:26:03		column has been removed
+2022-04-29/11:26:03		datafor ML:           department     region  ... awards_won? avg_training_score
+0         Technology  region_26  ...           0                 77
+0  Sales & Marketing   region_7  ...           0                 49
+1         Operations  region_22  ...           0                 60
+2  Sales & Marketing  region_19  ...           0                 50
+3  Sales & Marketing  region_23  ...           0                 50
+
+[5 rows x 12 columns]
+2022-04-29/11:26:03		Entered the is_null_present method of the Preprocessor class
+2022-04-29/11:26:03		Data has been treated
+2022-04-29/11:26:03		Entered the outlier treatment method of the Preprocessor class
+2022-04-29/11:26:03		Exception occured in Outlier TReatment Method of the Preprocessor class. Exception message:  'module' object is not subscriptable
+2022-04-29/11:26:03		Outlier treatment failed. Exited the is_null_present method of the Preprocessor class
+2022-04-29/11:26:03		Entered the get_data method of the Data_Getter_training class
+2022-04-29/11:26:03		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-04-29/11:26:04		Entered the encode_categorical_columns method of the Preprocessor class
+2022-04-29/11:26:04		treating department column successfull
+2022-04-29/11:26:04		treating region column successfull
+2022-04-29/11:26:04		treating education column successfull
+2022-04-29/11:26:04		treating getting dummies for gender column successfull
+2022-04-29/11:26:04		Entered the scaling_of_Numcol method of the Preprocessor class
+2022-04-29/11:26:04		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-04-29/11:26:04		Input data for model: [[ 8.00000000e+00  2.26100000e+03  2.00000000e+00  2.40000000e+01
+  -4.41216254e+00  3.00000000e+00  1.00000000e+00  1.00000000e+00
+   0.00000000e+00  1.01806533e+00  0.00000000e+00  1.00000000e+00
+   0.00000000e+00  1.00000000e+00]]
+2022-04-29/11:26:04		Entered the load_model method of the File_Operation class
+2022-04-29/11:26:04		Exception occured in load_model method of the Model_Finder class. Exception message:  [Errno 2] No such file or directory: '../models/xgBoost/xgBoost.pkl'
+2022-04-29/11:26:04		Model File xgBoost could not be saved. Exited the load_model method of the Model_Finder class
+2022-04-29/11:27:14		Start of Prediction of api....
+2022-04-29/11:27:14		column has been removed
+2022-04-29/11:27:14		datafor ML:           department     region  ... awards_won? avg_training_score
+0         Technology  region_26  ...           0                 77
+0  Sales & Marketing   region_7  ...           0                 49
+1         Operations  region_22  ...           0                 60
+2  Sales & Marketing  region_19  ...           0                 50
+3  Sales & Marketing  region_23  ...           0                 50
+
+[5 rows x 12 columns]
+2022-04-29/11:27:14		Entered the is_null_present method of the Preprocessor class
+2022-04-29/11:27:14		Data has been treated
+2022-04-29/11:27:14		Entered the outlier treatment method of the Preprocessor class
+2022-04-29/11:27:14		Exception occured in Outlier TReatment Method of the Preprocessor class. Exception message:  'module' object is not subscriptable
+2022-04-29/11:27:14		Outlier treatment failed. Exited the is_null_present method of the Preprocessor class
+2022-04-29/11:27:14		Entered the get_data method of the Data_Getter_training class
+2022-04-29/11:27:14		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-04-29/11:27:14		Entered the encode_categorical_columns method of the Preprocessor class
+2022-04-29/11:27:14		treating department column successfull
+2022-04-29/11:27:14		treating region column successfull
+2022-04-29/11:27:14		treating education column successfull
+2022-04-29/11:27:14		treating getting dummies for gender column successfull
+2022-04-29/11:27:14		Entered the scaling_of_Numcol method of the Preprocessor class
+2022-04-29/11:27:14		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-04-29/11:27:14		Input data for model: [[ 8.00000000e+00  2.26100000e+03  2.00000000e+00  2.40000000e+01
+  -4.41216254e+00  3.00000000e+00  1.00000000e+00  1.00000000e+00
+   0.00000000e+00  1.01806533e+00  0.00000000e+00  1.00000000e+00
+   0.00000000e+00  1.00000000e+00]]
+2022-04-29/11:27:14		Entered the load_model method of the File_Operation class
+2022-04-29/11:27:14		Exception occured in load_model method of the Model_Finder class. Exception message:  [Errno 2] No such file or directory: '../models/FinalXGBModel_new/FinalXGBModel_new.pkl'
+2022-04-29/11:27:14		Model File FinalXGBModel_new could not be saved. Exited the load_model method of the Model_Finder class
+2022-04-29/11:31:00		Start of Prediction of api....
+2022-04-29/11:31:00		column has been removed
+2022-04-29/11:31:00		datafor ML:           department     region  ... awards_won? avg_training_score
+0         Technology  region_26  ...           0                 77
+0  Sales & Marketing   region_7  ...           0                 49
+1         Operations  region_22  ...           0                 60
+2  Sales & Marketing  region_19  ...           0                 50
+3  Sales & Marketing  region_23  ...           0                 50
+
+[5 rows x 12 columns]
+2022-04-29/11:31:00		Entered the is_null_present method of the Preprocessor class
+2022-04-29/11:31:00		Data has been treated
+2022-04-29/11:31:00		Entered the outlier treatment method of the Preprocessor class
+2022-04-29/11:31:00		Exception occured in Outlier TReatment Method of the Preprocessor class. Exception message:  'module' object is not subscriptable
+2022-04-29/11:31:00		Outlier treatment failed. Exited the is_null_present method of the Preprocessor class
+2022-04-29/11:31:00		Entered the get_data method of the Data_Getter_training class
+2022-04-29/11:31:00		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-04-29/11:31:00		Entered the encode_categorical_columns method of the Preprocessor class
+2022-04-29/11:31:00		treating department column successfull
+2022-04-29/11:31:00		treating region column successfull
+2022-04-29/11:31:00		treating education column successfull
+2022-04-29/11:31:00		treating getting dummies for gender column successfull
+2022-04-29/11:31:00		Entered the scaling_of_Numcol method of the Preprocessor class
+2022-04-29/11:31:00		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-04-29/11:31:00		Input data for model: [[ 8.00000000e+00  2.26100000e+03  2.00000000e+00  2.40000000e+01
+  -4.41216254e+00  3.00000000e+00  1.00000000e+00  1.00000000e+00
+   0.00000000e+00  1.01806533e+00  0.00000000e+00  1.00000000e+00
+   0.00000000e+00  1.00000000e+00]]
+2022-04-29/11:31:00		Entered the load_model method of the File_Operation class
+2022-04-29/11:31:00		Model File FinalXGBModel_new loaded. Exited the load_model method of the Model_Finder class
+2022-04-29/11:31:18		Start of Prediction of api....
+2022-04-29/11:31:18		column has been removed
+2022-04-29/11:31:18		datafor ML:           department     region  ... awards_won? avg_training_score
+0         Technology  region_26  ...           0                 77
+0  Sales & Marketing   region_7  ...           0                 49
+1         Operations  region_22  ...           0                 60
+2  Sales & Marketing  region_19  ...           0                 50
+3  Sales & Marketing  region_23  ...           0                 50
+
+[5 rows x 12 columns]
+2022-04-29/11:31:18		Entered the is_null_present method of the Preprocessor class
+2022-04-29/11:31:18		Data has been treated
+2022-04-29/11:31:18		Entered the outlier treatment method of the Preprocessor class
+2022-04-29/11:31:18		Exception occured in Outlier TReatment Method of the Preprocessor class. Exception message:  'module' object is not subscriptable
+2022-04-29/11:31:18		Outlier treatment failed. Exited the is_null_present method of the Preprocessor class
+2022-04-29/11:31:18		Entered the get_data method of the Data_Getter_training class
+2022-04-29/11:31:18		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-04-29/11:31:18		Entered the encode_categorical_columns method of the Preprocessor class
+2022-04-29/11:31:18		treating department column successfull
+2022-04-29/11:31:18		treating region column successfull
+2022-04-29/11:31:18		treating education column successfull
+2022-04-29/11:31:18		treating getting dummies for gender column successfull
+2022-04-29/11:31:18		Entered the scaling_of_Numcol method of the Preprocessor class
+2022-04-29/11:31:18		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-04-29/11:31:18		Input data for model: [[ 8.00000000e+00  2.26100000e+03  2.00000000e+00  2.40000000e+01
+  -4.41216254e+00  3.00000000e+00  1.00000000e+00  1.00000000e+00
+   0.00000000e+00  1.01806533e+00  0.00000000e+00  1.00000000e+00
+   0.00000000e+00  1.00000000e+00]]
+2022-04-29/11:31:18		Entered the load_model method of the File_Operation class
+2022-04-29/11:31:18		Model File FinalXGBModel_new loaded. Exited the load_model method of the Model_Finder class
+2022-04-29/11:31:39		Start of Prediction of api....
+2022-04-29/11:31:39		column has been removed
+2022-04-29/11:31:39		datafor ML:           department     region  ... awards_won? avg_training_score
+0         Technology  region_26  ...           0                  0
+0  Sales & Marketing   region_7  ...           0                 49
+1         Operations  region_22  ...           0                 60
+2  Sales & Marketing  region_19  ...           0                 50
+3  Sales & Marketing  region_23  ...           0                 50
+
+[5 rows x 12 columns]
+2022-04-29/11:31:39		Entered the is_null_present method of the Preprocessor class
+2022-04-29/11:31:39		Data has been treated
+2022-04-29/11:31:39		Entered the outlier treatment method of the Preprocessor class
+2022-04-29/11:31:39		Exception occured in Outlier TReatment Method of the Preprocessor class. Exception message:  'module' object is not subscriptable
+2022-04-29/11:31:39		Outlier treatment failed. Exited the is_null_present method of the Preprocessor class
+2022-04-29/11:31:39		Entered the get_data method of the Data_Getter_training class
+2022-04-29/11:31:39		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-04-29/11:31:39		Entered the encode_categorical_columns method of the Preprocessor class
+2022-04-29/11:31:39		treating department column successfull
+2022-04-29/11:31:39		treating region column successfull
+2022-04-29/11:31:39		treating education column successfull
+2022-04-29/11:31:39		treating getting dummies for gender column successfull
+2022-04-29/11:31:39		Entered the scaling_of_Numcol method of the Preprocessor class
+2022-04-29/11:31:39		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-04-29/11:31:39		Input data for model: [[ 8.00000000e+00  2.26100000e+03  2.00000000e+00  0.00000000e+00
+  -4.41216254e+00  3.00000000e+00  1.00000000e+00  1.00000000e+00
+   0.00000000e+00 -4.73944417e+00  0.00000000e+00  1.00000000e+00
+   0.00000000e+00  1.00000000e+00]]
+2022-04-29/11:31:39		Entered the load_model method of the File_Operation class
+2022-04-29/11:31:39		Model File FinalXGBModel_new loaded. Exited the load_model method of the Model_Finder class
+2022-04-29/20:45:29		Start of Prediction of api....
+2022-04-29/20:45:30		column has been removed
+2022-04-29/20:45:30		datafor ML:           department     region  ... awards_won? avg_training_score
+0         Technology  region_26  ...           0                  0
+0  Sales & Marketing   region_7  ...           0                 49
+1         Operations  region_22  ...           0                 60
+2  Sales & Marketing  region_19  ...           0                 50
+3  Sales & Marketing  region_23  ...           0                 50
+
+[5 rows x 12 columns]
+2022-04-29/20:45:30		Entered the is_null_present method of the Preprocessor class
+2022-04-29/20:45:30		Data has been treated
+2022-04-29/20:45:30		Entered the outlier treatment method of the Preprocessor class
+2022-04-29/20:45:30		Exception occured in Outlier TReatment Method of the Preprocessor class. Exception message:  'module' object is not subscriptable
+2022-04-29/20:45:30		Outlier treatment failed. Exited the is_null_present method of the Preprocessor class
+2022-04-29/20:45:30		Entered the get_data method of the Data_Getter_training class
+2022-04-29/20:45:30		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-04-29/20:45:30		Entered the encode_categorical_columns method of the Preprocessor class
+2022-04-29/20:45:30		treating department column successfull
+2022-04-29/20:45:30		treating region column successfull
+2022-04-29/20:45:30		treating education column successfull
+2022-04-29/20:45:30		treating getting dummies for gender column successfull
+2022-04-29/20:45:30		Entered the scaling_of_Numcol method of the Preprocessor class
+2022-04-29/20:45:30		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-04-29/20:45:30		Input data for model: [[ 8.00000000e+00  2.26100000e+03  2.00000000e+00  0.00000000e+00
+  -4.41216254e+00  3.00000000e+00  1.00000000e+00  1.00000000e+00
+   0.00000000e+00 -4.73944417e+00  0.00000000e+00  1.00000000e+00
+   0.00000000e+00  1.00000000e+00]]
+2022-04-29/20:45:30		Entered the load_model method of the File_Operation class
+2022-04-29/20:45:30		Model File FinalXGBModel_new loaded. Exited the load_model method of the Model_Finder class
+2022-04-29/20:46:40		Start of Prediction of api....
+2022-04-29/20:46:40		column has been removed
+2022-04-29/20:46:40		datafor ML:           department     region  ... awards_won? avg_training_score
+0         Technology  region_26  ...           0                  0
+0  Sales & Marketing   region_7  ...           0                 49
+1         Operations  region_22  ...           0                 60
+2  Sales & Marketing  region_19  ...           0                 50
+3  Sales & Marketing  region_23  ...           0                 50
+
+[5 rows x 12 columns]
+2022-04-29/20:46:40		Entered the is_null_present method of the Preprocessor class
+2022-04-29/20:46:40		Data has been treated
+2022-04-29/20:46:40		Entered the outlier treatment method of the Preprocessor class
+2022-04-29/20:46:40		Exception occured in Outlier TReatment Method of the Preprocessor class. Exception message:  'module' object is not subscriptable
+2022-04-29/20:46:40		Outlier treatment failed. Exited the is_null_present method of the Preprocessor class
+2022-04-29/20:46:40		Entered the get_data method of the Data_Getter_training class
+2022-04-29/20:46:40		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-04-29/20:46:40		Entered the encode_categorical_columns method of the Preprocessor class
+2022-04-29/20:46:40		treating department column successfull
+2022-04-29/20:46:40		treating region column successfull
+2022-04-29/20:46:40		treating education column successfull
+2022-04-29/20:46:40		treating getting dummies for gender column successfull
+2022-04-29/20:46:40		Entered the scaling_of_Numcol method of the Preprocessor class
+2022-04-29/20:46:40		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-04-29/20:46:40		Input data for model: [[ 8.00000000e+00  2.26100000e+03  2.00000000e+00  0.00000000e+00
+  -4.41216254e+00  3.00000000e+00  1.00000000e+00  1.00000000e+00
+   0.00000000e+00 -4.73944417e+00  0.00000000e+00  1.00000000e+00
+   0.00000000e+00  1.00000000e+00]]
+2022-04-29/20:46:40		Entered the load_model method of the File_Operation class
+2022-04-29/20:46:40		Model File FinalXGBModel_new loaded. Exited the load_model method of the Model_Finder class
+2022-04-29/21:17:02		Start of Prediction of api....
+2022-04-29/21:17:02		column has been removed
+2022-04-29/21:17:03		datafor ML:           department     region  ... awards_won? avg_training_score
+0         Technology  region_26  ...           0                  0
+0  Sales & Marketing   region_7  ...           0                 49
+1         Operations  region_22  ...           0                 60
+2  Sales & Marketing  region_19  ...           0                 50
+3  Sales & Marketing  region_23  ...           0                 50
+
+[5 rows x 12 columns]
+2022-04-29/21:17:03		Entered the is_null_present method of the Preprocessor class
+2022-04-29/21:17:03		Data has been treated
+2022-04-29/21:17:03		Entered the outlier treatment method of the Preprocessor class
+2022-04-29/21:17:03		Exception occured in Outlier TReatment Method of the Preprocessor class. Exception message:  'module' object is not subscriptable
+2022-04-29/21:17:03		Outlier treatment failed. Exited the is_null_present method of the Preprocessor class
+2022-04-29/21:17:03		Entered the get_data method of the Data_Getter_training class
+2022-04-29/21:17:03		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-04-29/21:17:03		Entered the encode_categorical_columns method of the Preprocessor class
+2022-04-29/21:17:03		treating department column successfull
+2022-04-29/21:17:03		treating region column successfull
+2022-04-29/21:17:03		treating education column successfull
+2022-04-29/21:17:03		treating getting dummies for gender column successfull
+2022-04-29/21:17:03		Entered the scaling_of_Numcol method of the Preprocessor class
+2022-04-29/21:17:03		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-04-29/21:17:03		Input data for model: [[ 8.00000000e+00  2.26100000e+03  2.00000000e+00  0.00000000e+00
+  -4.41216254e+00  3.00000000e+00  1.00000000e+00  1.00000000e+00
+   0.00000000e+00 -4.73944417e+00  0.00000000e+00  1.00000000e+00
+   0.00000000e+00  1.00000000e+00]]
+2022-04-29/21:17:03		Entered the load_model method of the File_Operation class
+2022-04-29/21:17:03		Model File FinalXGBModel_new loaded. Exited the load_model method of the Model_Finder class
+2022-04-29/21:21:34		Start of Prediction of api....
+2022-04-29/21:22:18		Start of Prediction of api....
+2022-04-29/21:23:11		Start of Prediction of api....
+2022-04-29/21:23:11		column has been removed
+2022-04-29/21:23:11		datafor ML:           department     region  ... awards_won? avg_training_score
+0         Technology  region_26  ...           0                  0
+0  Sales & Marketing   region_7  ...           0                 49
+1         Operations  region_22  ...           0                 60
+2  Sales & Marketing  region_19  ...           0                 50
+3  Sales & Marketing  region_23  ...           0                 50
+
+[5 rows x 12 columns]
+2022-04-29/21:23:11		Entered the is_null_present method of the Preprocessor class
+2022-04-29/21:23:11		Data has been treated
+2022-04-29/21:23:11		Entered the outlier treatment method of the Preprocessor class
+2022-04-29/21:23:11		Exception occured in Outlier TReatment Method of the Preprocessor class. Exception message:  'module' object is not subscriptable
+2022-04-29/21:23:11		Outlier treatment failed. Exited the is_null_present method of the Preprocessor class
+2022-04-29/21:23:11		Entered the get_data method of the Data_Getter_training class
+2022-04-29/21:23:11		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-04-29/21:23:11		Entered the encode_categorical_columns method of the Preprocessor class
+2022-04-29/21:23:11		treating department column successfull
+2022-04-29/21:23:11		treating region column successfull
+2022-04-29/21:23:11		treating education column successfull
+2022-04-29/21:23:11		treating getting dummies for gender column successfull
+2022-04-29/21:23:11		Entered the scaling_of_Numcol method of the Preprocessor class
+2022-04-29/21:23:11		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-04-29/21:23:11		Input data for model: [[ 8.00000000e+00  2.26100000e+03  2.00000000e+00  0.00000000e+00
+  -4.41216254e+00  3.00000000e+00  1.00000000e+00  1.00000000e+00
+   0.00000000e+00 -4.73944417e+00  0.00000000e+00  1.00000000e+00
+   0.00000000e+00  1.00000000e+00]]
+2022-04-29/21:23:11		Entered the load_model method of the File_Operation class
+2022-04-29/21:23:11		Model File FinalXGBModel_new loaded. Exited the load_model method of the Model_Finder class
+2022-04-29/21:29:39		Start of Prediction of api....
+2022-04-29/21:29:39		column has been removed
+2022-04-29/21:29:39		datafor ML:           department     region  ... awards_won? avg_training_score
+0         Technology  region_26  ...           0                  0
+0  Sales & Marketing   region_7  ...           0                 49
+1         Operations  region_22  ...           0                 60
+2  Sales & Marketing  region_19  ...           0                 50
+3  Sales & Marketing  region_23  ...           0                 50
+
+[5 rows x 12 columns]
+2022-04-29/21:29:39		Entered the is_null_present method of the Preprocessor class
+2022-04-29/21:29:39		Data has been treated
+2022-04-29/21:29:39		Entered the outlier treatment method of the Preprocessor class
+2022-04-29/21:29:39		Exception occured in Outlier TReatment Method of the Preprocessor class. Exception message:  'module' object is not subscriptable
+2022-04-29/21:29:39		Outlier treatment failed. Exited the is_null_present method of the Preprocessor class
+2022-04-29/21:29:39		Entered the get_data method of the Data_Getter_training class
+2022-04-29/21:29:39		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-04-29/21:29:40		Entered the encode_categorical_columns method of the Preprocessor class
+2022-04-29/21:29:40		treating department column successfull
+2022-04-29/21:29:40		treating region column successfull
+2022-04-29/21:29:40		treating education column successfull
+2022-04-29/21:29:40		treating getting dummies for gender column successfull
+2022-04-29/21:29:40		Entered the scaling_of_Numcol method of the Preprocessor class
+2022-04-29/21:29:40		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-04-29/21:29:40		Input data for model: [[ 8.00000000e+00  2.26100000e+03  2.00000000e+00  0.00000000e+00
+  -4.41216254e+00  3.00000000e+00  1.00000000e+00  1.00000000e+00
+   0.00000000e+00 -4.73944417e+00  0.00000000e+00  1.00000000e+00
+   0.00000000e+00  1.00000000e+00]]
+2022-04-29/21:29:40		Entered the load_model method of the File_Operation class
+2022-04-29/21:29:40		Model File FinalXGBModel_new loaded. Exited the load_model method of the Model_Finder class
+2022-04-29/21:31:16		Start of Prediction of api....
+2022-04-29/21:31:16		column has been removed
+2022-04-29/21:31:16		datafor ML:           department     region  ... awards_won? avg_training_score
+0         Technology  region_26  ...           0                  0
+0  Sales & Marketing   region_7  ...           0                 49
+1         Operations  region_22  ...           0                 60
+2  Sales & Marketing  region_19  ...           0                 50
+3  Sales & Marketing  region_23  ...           0                 50
+
+[5 rows x 12 columns]
+2022-04-29/21:31:16		Entered the is_null_present method of the Preprocessor class
+2022-04-29/21:31:16		Data has been treated
+2022-04-29/21:31:16		Entered the outlier treatment method of the Preprocessor class
+2022-04-29/21:31:16		Exception occured in Outlier TReatment Method of the Preprocessor class. Exception message:  'module' object is not subscriptable
+2022-04-29/21:31:16		Outlier treatment failed. Exited the is_null_present method of the Preprocessor class
+2022-04-29/21:31:16		Entered the get_data method of the Data_Getter_training class
+2022-04-29/21:31:16		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-04-29/21:31:16		Entered the encode_categorical_columns method of the Preprocessor class
+2022-04-29/21:31:16		treating department column successfull
+2022-04-29/21:31:16		treating region column successfull
+2022-04-29/21:31:16		treating education column successfull
+2022-04-29/21:31:16		treating getting dummies for gender column successfull
+2022-04-29/21:31:16		Entered the scaling_of_Numcol method of the Preprocessor class
+2022-04-29/21:31:16		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-04-29/21:31:16		Input data for model: [[ 8.00000000e+00  2.26100000e+03  2.00000000e+00  0.00000000e+00
+  -4.41216254e+00  3.00000000e+00  1.00000000e+00  1.00000000e+00
+   0.00000000e+00 -4.73944417e+00  0.00000000e+00  1.00000000e+00
+   0.00000000e+00  1.00000000e+00]]
+2022-04-29/21:31:16		Entered the load_model method of the File_Operation class
+2022-04-29/21:31:16		Model File FinalXGBModel_new loaded. Exited the load_model method of the Model_Finder class
+2022-04-29/21:31:51		Start of Prediction of api....
+2022-04-29/21:31:51		column has been removed
+2022-04-29/21:31:51		datafor ML:           department     region  ... awards_won? avg_training_score
+0         Technology  region_26  ...           0                  0
+0  Sales & Marketing   region_7  ...           0                 49
+1         Operations  region_22  ...           0                 60
+2  Sales & Marketing  region_19  ...           0                 50
+3  Sales & Marketing  region_23  ...           0                 50
+
+[5 rows x 12 columns]
+2022-04-29/21:31:51		Entered the is_null_present method of the Preprocessor class
+2022-04-29/21:31:52		Data has been treated
+2022-04-29/21:31:52		Entered the outlier treatment method of the Preprocessor class
+2022-04-29/21:31:52		Exception occured in Outlier TReatment Method of the Preprocessor class. Exception message:  'module' object is not subscriptable
+2022-04-29/21:31:52		Outlier treatment failed. Exited the is_null_present method of the Preprocessor class
+2022-04-29/21:31:52		Entered the get_data method of the Data_Getter_training class
+2022-04-29/21:31:52		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-04-29/21:31:52		Entered the encode_categorical_columns method of the Preprocessor class
+2022-04-29/21:31:52		treating department column successfull
+2022-04-29/21:31:52		treating region column successfull
+2022-04-29/21:31:52		treating education column successfull
+2022-04-29/21:31:52		treating getting dummies for gender column successfull
+2022-04-29/21:31:52		Entered the scaling_of_Numcol method of the Preprocessor class
+2022-04-29/21:31:52		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-04-29/21:31:52		Input data for model: [[ 8.00000000e+00  2.26100000e+03  2.00000000e+00  0.00000000e+00
+  -4.41216254e+00  3.00000000e+00  1.00000000e+00  1.00000000e+00
+   0.00000000e+00 -4.73944417e+00  0.00000000e+00  1.00000000e+00
+   0.00000000e+00  1.00000000e+00]]
+2022-04-29/21:31:52		Entered the load_model method of the File_Operation class
+2022-04-29/21:31:52		Model File FinalXGBModel_new loaded. Exited the load_model method of the Model_Finder class
+2022-04-29/21:37:56		Start of Prediction of api....
+2022-04-29/21:37:56		column has been removed
+2022-04-29/21:37:56		datafor ML:           department     region  ... awards_won? avg_training_score
+0         Technology  region_26  ...           0                  0
+0  Sales & Marketing   region_7  ...           0                 49
+1         Operations  region_22  ...           0                 60
+2  Sales & Marketing  region_19  ...           0                 50
+3  Sales & Marketing  region_23  ...           0                 50
+
+[5 rows x 12 columns]
+2022-04-29/21:37:56		Entered the is_null_present method of the Preprocessor class
+2022-04-29/21:37:56		Data has been treated
+2022-04-29/21:37:56		Entered the outlier treatment method of the Preprocessor class
+2022-04-29/21:37:56		Exception occured in Outlier TReatment Method of the Preprocessor class. Exception message:  'module' object is not subscriptable
+2022-04-29/21:37:56		Outlier treatment failed. Exited the is_null_present method of the Preprocessor class
+2022-04-29/21:37:56		Entered the get_data method of the Data_Getter_training class
+2022-04-29/21:37:56		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-04-29/21:37:56		Entered the encode_categorical_columns method of the Preprocessor class
+2022-04-29/21:37:56		treating department column successfull
+2022-04-29/21:37:56		treating region column successfull
+2022-04-29/21:37:56		treating education column successfull
+2022-04-29/21:37:56		treating getting dummies for gender column successfull
+2022-04-29/21:37:56		Entered the scaling_of_Numcol method of the Preprocessor class
+2022-04-29/21:37:56		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-04-29/21:37:56		Input data for model: [[ 8.00000000e+00  2.26100000e+03  2.00000000e+00  0.00000000e+00
+  -4.41216254e+00  3.00000000e+00  1.00000000e+00  1.00000000e+00
+   0.00000000e+00 -4.73944417e+00  0.00000000e+00  1.00000000e+00
+   0.00000000e+00  1.00000000e+00]]
+2022-04-29/21:37:56		Entered the load_model method of the File_Operation class
+2022-04-29/21:37:56		Model File FinalXGBModel_new loaded. Exited the load_model method of the Model_Finder class
+2022-04-29/21:50:32		Start of Prediction of api....
+2022-04-29/21:50:32		column has been removed
+2022-04-29/21:50:32		datafor ML:           department     region  ... awards_won? avg_training_score
+0         Technology  region_26  ...           0                  0
+0  Sales & Marketing   region_7  ...           0                 49
+1         Operations  region_22  ...           0                 60
+2  Sales & Marketing  region_19  ...           0                 50
+3  Sales & Marketing  region_23  ...           0                 50
+
+[5 rows x 12 columns]
+2022-04-29/21:50:32		Entered the is_null_present method of the Preprocessor class
+2022-04-29/21:50:32		Data has been treated
+2022-04-29/21:50:32		Entered the outlier treatment method of the Preprocessor class
+2022-04-29/21:50:32		Exception occured in Outlier TReatment Method of the Preprocessor class. Exception message:  'module' object is not subscriptable
+2022-04-29/21:50:32		Outlier treatment failed. Exited the is_null_present method of the Preprocessor class
+2022-04-29/21:50:32		Entered the get_data method of the Data_Getter_training class
+2022-04-29/21:50:32		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-04-29/21:50:32		Entered the encode_categorical_columns method of the Preprocessor class
+2022-04-29/21:50:32		treating department column successfull
+2022-04-29/21:50:32		treating region column successfull
+2022-04-29/21:50:32		treating education column successfull
+2022-04-29/21:50:32		treating getting dummies for gender column successfull
+2022-04-29/21:50:32		Entered the scaling_of_Numcol method of the Preprocessor class
+2022-04-29/21:50:32		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-04-29/21:50:32		Input data for model: [[ 8.00000000e+00  2.26100000e+03  2.00000000e+00  0.00000000e+00
+  -4.41216254e+00  3.00000000e+00  1.00000000e+00  1.00000000e+00
+   0.00000000e+00 -4.73944417e+00  0.00000000e+00  1.00000000e+00
+   0.00000000e+00  1.00000000e+00]]
+2022-04-29/21:50:32		Entered the load_model method of the File_Operation class
+2022-04-29/21:50:32		Model File FinalXGBModel_new loaded. Exited the load_model method of the Model_Finder class
+2022-04-29/22:06:40		Start of Prediction of api....
+2022-04-29/22:06:40		column has been removed
+2022-04-29/22:06:40		datafor ML:           department     region  ... awards_won? avg_training_score
+0         Technology  region_26  ...           0                  0
+0  Sales & Marketing   region_7  ...           0                 49
+1         Operations  region_22  ...           0                 60
+2  Sales & Marketing  region_19  ...           0                 50
+3  Sales & Marketing  region_23  ...           0                 50
+
+[5 rows x 12 columns]
+2022-04-29/22:06:40		Entered the is_null_present method of the Preprocessor class
+2022-04-29/22:06:40		Data has been treated
+2022-04-29/22:06:40		Entered the outlier treatment method of the Preprocessor class
+2022-04-29/22:06:40		Exception occured in Outlier TReatment Method of the Preprocessor class. Exception message:  'module' object is not subscriptable
+2022-04-29/22:06:40		Outlier treatment failed. Exited the is_null_present method of the Preprocessor class
+2022-04-29/22:06:40		Entered the get_data method of the Data_Getter_training class
+2022-04-29/22:06:40		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-04-29/22:06:40		Entered the encode_categorical_columns method of the Preprocessor class
+2022-04-29/22:06:40		treating department column successfull
+2022-04-29/22:06:40		treating region column successfull
+2022-04-29/22:06:40		treating education column successfull
+2022-04-29/22:06:40		treating getting dummies for gender column successfull
+2022-04-29/22:06:40		Entered the scaling_of_Numcol method of the Preprocessor class
+2022-04-29/22:06:40		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-04-29/22:06:40		Input data for model: [[ 8.00000000e+00  2.26100000e+03  2.00000000e+00  0.00000000e+00
+  -4.41216254e+00  3.00000000e+00  1.00000000e+00  1.00000000e+00
+   0.00000000e+00 -4.73944417e+00  0.00000000e+00  1.00000000e+00
+   0.00000000e+00  1.00000000e+00]]
+2022-04-29/22:06:40		Entered the load_model method of the File_Operation class
+2022-04-29/22:06:40		Model File FinalXGBModel_new loaded. Exited the load_model method of the Model_Finder class
+2022-04-29/22:07:43		Start of Prediction of api....
+2022-04-29/22:07:43		column has been removed
+2022-04-29/22:07:43		datafor ML:           department     region  ... awards_won? avg_training_score
+0         Technology  region_26  ...           0                  0
+0  Sales & Marketing   region_7  ...           0                 49
+1         Operations  region_22  ...           0                 60
+2  Sales & Marketing  region_19  ...           0                 50
+3  Sales & Marketing  region_23  ...           0                 50
+
+[5 rows x 12 columns]
+2022-04-29/22:07:43		Entered the is_null_present method of the Preprocessor class
+2022-04-29/22:07:43		Data has been treated
+2022-04-29/22:07:43		Entered the outlier treatment method of the Preprocessor class
+2022-04-29/22:07:43		Exception occured in Outlier TReatment Method of the Preprocessor class. Exception message:  'module' object is not subscriptable
+2022-04-29/22:07:43		Outlier treatment failed. Exited the is_null_present method of the Preprocessor class
+2022-04-29/22:07:43		Entered the get_data method of the Data_Getter_training class
+2022-04-29/22:07:43		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-04-29/22:07:43		Entered the encode_categorical_columns method of the Preprocessor class
+2022-04-29/22:07:43		treating department column successfull
+2022-04-29/22:07:43		treating region column successfull
+2022-04-29/22:07:43		treating education column successfull
+2022-04-29/22:07:43		treating getting dummies for gender column successfull
+2022-04-29/22:07:43		Entered the scaling_of_Numcol method of the Preprocessor class
+2022-04-29/22:07:43		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-04-29/22:07:43		Input data for model: [[ 8.00000000e+00  2.26100000e+03  2.00000000e+00  0.00000000e+00
+  -4.41216254e+00  3.00000000e+00  1.00000000e+00  1.00000000e+00
+   0.00000000e+00 -4.73944417e+00  0.00000000e+00  1.00000000e+00
+   0.00000000e+00  1.00000000e+00]]
+2022-04-29/22:07:43		Entered the load_model method of the File_Operation class
+2022-04-29/22:07:43		Model File FinalXGBModel_new loaded. Exited the load_model method of the Model_Finder class
+2022-04-29/22:08:25		Start of Prediction of api....
+2022-04-29/22:08:25		column has been removed
+2022-04-29/22:08:25		datafor ML:           department     region  ... awards_won? avg_training_score
+0  Sales & Marketing   region_7  ...           1                  3
+0  Sales & Marketing   region_7  ...           0                 49
+1         Operations  region_22  ...           0                 60
+2  Sales & Marketing  region_19  ...           0                 50
+3  Sales & Marketing  region_23  ...           0                 50
+
+[5 rows x 12 columns]
+2022-04-29/22:08:25		Entered the is_null_present method of the Preprocessor class
+2022-04-29/22:08:25		Data has been treated
+2022-04-29/22:08:25		Entered the outlier treatment method of the Preprocessor class
+2022-04-29/22:08:25		Exception occured in Outlier TReatment Method of the Preprocessor class. Exception message:  'module' object is not subscriptable
+2022-04-29/22:08:25		Outlier treatment failed. Exited the is_null_present method of the Preprocessor class
+2022-04-29/22:08:25		Entered the get_data method of the Data_Getter_training class
+2022-04-29/22:08:26		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-04-29/22:08:26		Entered the encode_categorical_columns method of the Preprocessor class
+2022-04-29/22:08:26		treating department column successfull
+2022-04-29/22:08:26		treating region column successfull
+2022-04-29/22:08:26		treating education column successfull
+2022-04-29/22:08:26		treating getting dummies for gender column successfull
+2022-04-29/22:08:26		Entered the scaling_of_Numcol method of the Preprocessor class
+2022-04-29/22:08:26		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-04-29/22:08:26		Input data for model: [[ 3.00000000e+00  4.84400000e+03  3.00000000e+00  2.20000000e+01
+  -4.15120273e+00  1.00000000e+00  3.00000000e+00  1.00000000e+00
+   1.00000000e+00 -4.51521888e+00  0.00000000e+00  1.00000000e+00
+   0.00000000e+00  1.00000000e+00]]
+2022-04-29/22:08:26		Entered the load_model method of the File_Operation class
+2022-04-29/22:08:26		Model File FinalXGBModel_new loaded. Exited the load_model method of the Model_Finder class
+2022-04-29/22:08:57		Start of Prediction of api....
+2022-04-29/22:08:57		column has been removed
+2022-04-29/22:08:57		datafor ML:           department     region  ... awards_won? avg_training_score
+0  Sales & Marketing   region_7  ...           0                  0
+0  Sales & Marketing   region_7  ...           0                 49
+1         Operations  region_22  ...           0                 60
+2  Sales & Marketing  region_19  ...           0                 50
+3  Sales & Marketing  region_23  ...           0                 50
+
+[5 rows x 12 columns]
+2022-04-29/22:08:57		Entered the is_null_present method of the Preprocessor class
+2022-04-29/22:08:57		Data has been treated
+2022-04-29/22:08:57		Entered the outlier treatment method of the Preprocessor class
+2022-04-29/22:08:57		Exception occured in Outlier TReatment Method of the Preprocessor class. Exception message:  'module' object is not subscriptable
+2022-04-29/22:08:57		Outlier treatment failed. Exited the is_null_present method of the Preprocessor class
+2022-04-29/22:08:57		Entered the get_data method of the Data_Getter_training class
+2022-04-29/22:08:58		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-04-29/22:08:58		Entered the encode_categorical_columns method of the Preprocessor class
+2022-04-29/22:08:58		treating department column successfull
+2022-04-29/22:08:58		treating region column successfull
+2022-04-29/22:08:58		treating education column successfull
+2022-04-29/22:08:58		treating getting dummies for gender column successfull
+2022-04-29/22:08:58		Entered the scaling_of_Numcol method of the Preprocessor class
+2022-04-29/22:08:58		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-04-29/22:08:58		Input data for model: [[ 3.00000000e+00  4.84400000e+03  3.00000000e+00  2.20000000e+01
+  -4.54263633e+00  1.00000000e+00  0.00000000e+00  0.00000000e+00
+   0.00000000e+00 -4.73944417e+00  0.00000000e+00  1.00000000e+00
+   0.00000000e+00  1.00000000e+00]]
+2022-04-29/22:08:58		Entered the load_model method of the File_Operation class
+2022-04-29/22:08:58		Model File FinalXGBModel_new loaded. Exited the load_model method of the Model_Finder class
+2022-04-29/22:11:24		Start of Prediction of api....
+2022-04-29/22:11:25		column has been removed
+2022-04-29/22:11:25		datafor ML:           department     region  ... awards_won? avg_training_score
+0  Sales & Marketing   region_7  ...           0                  0
+0  Sales & Marketing   region_7  ...           0                 49
+1         Operations  region_22  ...           0                 60
+2  Sales & Marketing  region_19  ...           0                 50
+3  Sales & Marketing  region_23  ...           0                 50
+
+[5 rows x 12 columns]
+2022-04-29/22:11:25		Entered the is_null_present method of the Preprocessor class
+2022-04-29/22:11:25		Data has been treated
+2022-04-29/22:11:25		Entered the outlier treatment method of the Preprocessor class
+2022-04-29/22:11:25		Exception occured in Outlier TReatment Method of the Preprocessor class. Exception message:  'module' object is not subscriptable
+2022-04-29/22:11:25		Outlier treatment failed. Exited the is_null_present method of the Preprocessor class
+2022-04-29/22:11:25		Entered the get_data method of the Data_Getter_training class
+2022-04-29/22:11:25		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-04-29/22:11:25		Entered the encode_categorical_columns method of the Preprocessor class
+2022-04-29/22:11:25		treating department column successfull
+2022-04-29/22:11:25		treating region column successfull
+2022-04-29/22:11:25		treating education column successfull
+2022-04-29/22:11:25		treating getting dummies for gender column successfull
+2022-04-29/22:11:25		Entered the scaling_of_Numcol method of the Preprocessor class
+2022-04-29/22:11:25		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-04-29/22:11:25		Input data for model: [[ 3.00000000e+00  4.84400000e+03  3.00000000e+00  2.20000000e+01
+  -4.54263633e+00  1.00000000e+00  0.00000000e+00  0.00000000e+00
+   0.00000000e+00 -4.73944417e+00  0.00000000e+00  1.00000000e+00
+   0.00000000e+00  1.00000000e+00]]
+2022-04-29/22:11:25		Entered the load_model method of the File_Operation class
+2022-04-29/22:11:25		Model File FinalXGBModel_new loaded. Exited the load_model method of the Model_Finder class
+2022-04-29/22:12:36		Start of Prediction of api....
+2022-04-29/22:12:36		column has been removed
+2022-04-29/22:12:36		datafor ML:           department     region  ... awards_won? avg_training_score
+0  Sales & Marketing   region_7  ...           0                  0
+0  Sales & Marketing   region_7  ...           0                 49
+1         Operations  region_22  ...           0                 60
+2  Sales & Marketing  region_19  ...           0                 50
+3  Sales & Marketing  region_23  ...           0                 50
+
+[5 rows x 12 columns]
+2022-04-29/22:12:36		Entered the is_null_present method of the Preprocessor class
+2022-04-29/22:12:36		Data has been treated
+2022-04-29/22:12:36		Entered the outlier treatment method of the Preprocessor class
+2022-04-29/22:12:36		Exception occured in Outlier TReatment Method of the Preprocessor class. Exception message:  'module' object is not subscriptable
+2022-04-29/22:12:36		Outlier treatment failed. Exited the is_null_present method of the Preprocessor class
+2022-04-29/22:12:36		Entered the get_data method of the Data_Getter_training class
+2022-04-29/22:12:36		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-04-29/22:12:36		Entered the encode_categorical_columns method of the Preprocessor class
+2022-04-29/22:12:36		treating department column successfull
+2022-04-29/22:12:36		treating region column successfull
+2022-04-29/22:12:37		treating education column successfull
+2022-04-29/22:12:37		treating getting dummies for gender column successfull
+2022-04-29/22:12:37		Entered the scaling_of_Numcol method of the Preprocessor class
+2022-04-29/22:12:37		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-04-29/22:12:37		Input data for model: [[ 3.00000000e+00  4.84400000e+03  3.00000000e+00  2.20000000e+01
+  -4.54263633e+00  1.00000000e+00  0.00000000e+00  0.00000000e+00
+   0.00000000e+00 -4.73944417e+00  0.00000000e+00  1.00000000e+00
+   0.00000000e+00  1.00000000e+00]]
+2022-04-29/22:12:37		Entered the load_model method of the File_Operation class
+2022-04-29/22:12:37		Model File FinalXGBModel_new loaded. Exited the load_model method of the Model_Finder class
+2022-04-29/22:12:59		Start of Prediction of api....
+2022-04-29/22:12:59		column has been removed
+2022-04-29/22:12:59		datafor ML:           department     region  ... awards_won? avg_training_score
+0  Sales & Marketing   region_7  ...           0                  0
+0  Sales & Marketing   region_7  ...           0                 49
+1         Operations  region_22  ...           0                 60
+2  Sales & Marketing  region_19  ...           0                 50
+3  Sales & Marketing  region_23  ...           0                 50
+
+[5 rows x 12 columns]
+2022-04-29/22:12:59		Entered the is_null_present method of the Preprocessor class
+2022-04-29/22:12:59		Data has been treated
+2022-04-29/22:12:59		Entered the outlier treatment method of the Preprocessor class
+2022-04-29/22:12:59		Exception occured in Outlier TReatment Method of the Preprocessor class. Exception message:  'module' object is not subscriptable
+2022-04-29/22:12:59		Outlier treatment failed. Exited the is_null_present method of the Preprocessor class
+2022-04-29/22:12:59		Entered the get_data method of the Data_Getter_training class
+2022-04-29/22:12:59		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-04-29/22:12:59		Entered the encode_categorical_columns method of the Preprocessor class
+2022-04-29/22:12:59		treating department column successfull
+2022-04-29/22:12:59		treating region column successfull
+2022-04-29/22:12:59		treating education column successfull
+2022-04-29/22:12:59		treating getting dummies for gender column successfull
+2022-04-29/22:12:59		Entered the scaling_of_Numcol method of the Preprocessor class
+2022-04-29/22:12:59		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-04-29/22:12:59		Input data for model: [[ 3.00000000e+00  4.84400000e+03  3.00000000e+00  2.20000000e+01
+  -4.54263633e+00  1.00000000e+00  0.00000000e+00  0.00000000e+00
+   0.00000000e+00 -4.73944417e+00  0.00000000e+00  1.00000000e+00
+   0.00000000e+00  1.00000000e+00]]
+2022-04-29/22:12:59		Entered the load_model method of the File_Operation class
+2022-04-29/22:12:59		Model File FinalXGBModel_new loaded. Exited the load_model method of the Model_Finder class
+2022-04-29/22:13:11		Start of Prediction of api....
+2022-04-29/22:13:11		column has been removed
+2022-04-29/22:13:11		datafor ML:           department     region  ... awards_won? avg_training_score
+0  Sales & Marketing   region_7  ...           0                  0
+0  Sales & Marketing   region_7  ...           0                 49
+1         Operations  region_22  ...           0                 60
+2  Sales & Marketing  region_19  ...           0                 50
+3  Sales & Marketing  region_23  ...           0                 50
+
+[5 rows x 12 columns]
+2022-04-29/22:13:11		Entered the is_null_present method of the Preprocessor class
+2022-04-29/22:13:11		Data has been treated
+2022-04-29/22:13:11		Entered the outlier treatment method of the Preprocessor class
+2022-04-29/22:13:11		Exception occured in Outlier TReatment Method of the Preprocessor class. Exception message:  'module' object is not subscriptable
+2022-04-29/22:13:11		Outlier treatment failed. Exited the is_null_present method of the Preprocessor class
+2022-04-29/22:13:11		Entered the get_data method of the Data_Getter_training class
+2022-04-29/22:13:12		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-04-29/22:13:12		Entered the encode_categorical_columns method of the Preprocessor class
+2022-04-29/22:13:12		treating department column successfull
+2022-04-29/22:13:12		treating region column successfull
+2022-04-29/22:13:12		treating education column successfull
+2022-04-29/22:13:12		treating getting dummies for gender column successfull
+2022-04-29/22:13:12		Entered the scaling_of_Numcol method of the Preprocessor class
+2022-04-29/22:13:12		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-04-29/22:13:12		Input data for model: [[ 3.00000000e+00  4.84400000e+03  3.00000000e+00  2.20000000e+01
+  -4.54263633e+00  1.00000000e+00  0.00000000e+00  0.00000000e+00
+   0.00000000e+00 -4.73944417e+00  0.00000000e+00  1.00000000e+00
+   0.00000000e+00  1.00000000e+00]]
+2022-04-29/22:13:12		Entered the load_model method of the File_Operation class
+2022-04-29/22:13:12		Model File FinalXGBModel_new loaded. Exited the load_model method of the Model_Finder class
+2022-04-29/22:13:31		Start of Prediction of api....
+2022-04-29/22:13:31		column has been removed
+2022-04-29/22:13:32		datafor ML:           department     region  ... awards_won? avg_training_score
+0  Sales & Marketing   region_7  ...           0                  0
+0  Sales & Marketing   region_7  ...           0                 49
+1         Operations  region_22  ...           0                 60
+2  Sales & Marketing  region_19  ...           0                 50
+3  Sales & Marketing  region_23  ...           0                 50
+
+[5 rows x 12 columns]
+2022-04-29/22:13:32		Entered the is_null_present method of the Preprocessor class
+2022-04-29/22:13:32		Data has been treated
+2022-04-29/22:13:32		Entered the outlier treatment method of the Preprocessor class
+2022-04-29/22:13:32		Exception occured in Outlier TReatment Method of the Preprocessor class. Exception message:  'module' object is not subscriptable
+2022-04-29/22:13:32		Outlier treatment failed. Exited the is_null_present method of the Preprocessor class
+2022-04-29/22:13:32		Entered the get_data method of the Data_Getter_training class
+2022-04-29/22:13:32		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-04-29/22:13:32		Entered the encode_categorical_columns method of the Preprocessor class
+2022-04-29/22:13:32		treating department column successfull
+2022-04-29/22:13:32		treating region column successfull
+2022-04-29/22:13:32		treating education column successfull
+2022-04-29/22:13:32		treating getting dummies for gender column successfull
+2022-04-29/22:13:32		Entered the scaling_of_Numcol method of the Preprocessor class
+2022-04-29/22:13:32		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-04-29/22:13:32		Input data for model: [[ 3.00000000e+00  4.84400000e+03  3.00000000e+00  2.20000000e+01
+  -4.54263633e+00  1.00000000e+00  0.00000000e+00  0.00000000e+00
+   0.00000000e+00 -4.73944417e+00  0.00000000e+00  1.00000000e+00
+   0.00000000e+00  1.00000000e+00]]
+2022-04-29/22:13:32		Entered the load_model method of the File_Operation class
+2022-04-29/22:13:32		Model File FinalXGBModel_new loaded. Exited the load_model method of the Model_Finder class
+2022-04-29/22:15:31		Start of Prediction of api....
+2022-04-29/22:15:32		column has been removed
+2022-04-29/22:15:32		datafor ML:           department     region  ... awards_won? avg_training_score
+0  Sales & Marketing   region_7  ...           0                  0
+0  Sales & Marketing   region_7  ...           0                 49
+1         Operations  region_22  ...           0                 60
+2  Sales & Marketing  region_19  ...           0                 50
+3  Sales & Marketing  region_23  ...           0                 50
+
+[5 rows x 12 columns]
+2022-04-29/22:15:32		Entered the is_null_present method of the Preprocessor class
+2022-04-29/22:15:32		Data has been treated
+2022-04-29/22:15:32		Entered the outlier treatment method of the Preprocessor class
+2022-04-29/22:15:32		Exception occured in Outlier TReatment Method of the Preprocessor class. Exception message:  'module' object is not subscriptable
+2022-04-29/22:15:32		Outlier treatment failed. Exited the is_null_present method of the Preprocessor class
+2022-04-29/22:15:32		Entered the get_data method of the Data_Getter_training class
+2022-04-29/22:15:32		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-04-29/22:15:32		Entered the encode_categorical_columns method of the Preprocessor class
+2022-04-29/22:15:32		treating department column successfull
+2022-04-29/22:15:32		treating region column successfull
+2022-04-29/22:15:32		treating education column successfull
+2022-04-29/22:15:32		treating getting dummies for gender column successfull
+2022-04-29/22:15:32		Entered the scaling_of_Numcol method of the Preprocessor class
+2022-04-29/22:15:32		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-04-29/22:15:32		Input data for model: [[ 3.00000000e+00  4.84400000e+03  3.00000000e+00  2.20000000e+01
+  -4.54263633e+00  1.00000000e+00  0.00000000e+00  0.00000000e+00
+   0.00000000e+00 -4.73944417e+00  0.00000000e+00  1.00000000e+00
+   0.00000000e+00  1.00000000e+00]]
+2022-04-29/22:15:32		Entered the load_model method of the File_Operation class
+2022-04-29/22:15:32		Model File FinalXGBModel_new loaded. Exited the load_model method of the Model_Finder class
+2022-04-29/22:16:31		Start of Prediction of api....
+2022-04-29/22:16:32		column has been removed
+2022-04-29/22:16:32		datafor ML:           department     region  ... awards_won? avg_training_score
+0  Sales & Marketing   region_7  ...           0                  0
+0  Sales & Marketing   region_7  ...           0                 49
+1         Operations  region_22  ...           0                 60
+2  Sales & Marketing  region_19  ...           0                 50
+3  Sales & Marketing  region_23  ...           0                 50
+
+[5 rows x 12 columns]
+2022-04-29/22:16:32		Entered the is_null_present method of the Preprocessor class
+2022-04-29/22:16:32		Data has been treated
+2022-04-29/22:16:32		Entered the outlier treatment method of the Preprocessor class
+2022-04-29/22:16:32		Exception occured in Outlier TReatment Method of the Preprocessor class. Exception message:  'module' object is not subscriptable
+2022-04-29/22:16:32		Outlier treatment failed. Exited the is_null_present method of the Preprocessor class
+2022-04-29/22:16:32		Entered the get_data method of the Data_Getter_training class
+2022-04-29/22:16:32		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-04-29/22:16:32		Entered the encode_categorical_columns method of the Preprocessor class
+2022-04-29/22:16:32		treating department column successfull
+2022-04-29/22:16:32		treating region column successfull
+2022-04-29/22:16:32		treating education column successfull
+2022-04-29/22:16:32		treating getting dummies for gender column successfull
+2022-04-29/22:16:32		Entered the scaling_of_Numcol method of the Preprocessor class
+2022-04-29/22:16:32		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-04-29/22:16:32		Input data for model: [[ 3.00000000e+00  4.84400000e+03  3.00000000e+00  2.20000000e+01
+  -4.54263633e+00  1.00000000e+00  0.00000000e+00  0.00000000e+00
+   0.00000000e+00 -4.73944417e+00  0.00000000e+00  1.00000000e+00
+   0.00000000e+00  1.00000000e+00]]
+2022-04-29/22:16:32		Entered the load_model method of the File_Operation class
+2022-04-29/22:16:32		Model File FinalXGBModel_new loaded. Exited the load_model method of the Model_Finder class
+2022-04-29/22:17:49		Start of Prediction of api....
+2022-04-29/22:17:49		column has been removed
+2022-04-29/22:17:49		datafor ML:           department     region  ... awards_won? avg_training_score
+0  Sales & Marketing   region_7  ...           0                  0
+0  Sales & Marketing   region_7  ...           0                 49
+1         Operations  region_22  ...           0                 60
+2  Sales & Marketing  region_19  ...           0                 50
+3  Sales & Marketing  region_23  ...           0                 50
+
+[5 rows x 12 columns]
+2022-04-29/22:17:49		Entered the is_null_present method of the Preprocessor class
+2022-04-29/22:17:49		Data has been treated
+2022-04-29/22:17:49		Entered the outlier treatment method of the Preprocessor class
+2022-04-29/22:17:49		Exception occured in Outlier TReatment Method of the Preprocessor class. Exception message:  'module' object is not subscriptable
+2022-04-29/22:17:49		Outlier treatment failed. Exited the is_null_present method of the Preprocessor class
+2022-04-29/22:17:49		Entered the get_data method of the Data_Getter_training class
+2022-04-29/22:17:49		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-04-29/22:17:49		Entered the encode_categorical_columns method of the Preprocessor class
+2022-04-29/22:17:49		treating department column successfull
+2022-04-29/22:17:49		treating region column successfull
+2022-04-29/22:17:49		treating education column successfull
+2022-04-29/22:17:49		treating getting dummies for gender column successfull
+2022-04-29/22:17:49		Entered the scaling_of_Numcol method of the Preprocessor class
+2022-04-29/22:17:49		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-04-29/22:17:49		Input data for model: [[ 3.00000000e+00  4.84400000e+03  3.00000000e+00  2.20000000e+01
+  -4.54263633e+00  1.00000000e+00  0.00000000e+00  0.00000000e+00
+   0.00000000e+00 -4.73944417e+00  0.00000000e+00  1.00000000e+00
+   0.00000000e+00  1.00000000e+00]]
+2022-04-29/22:17:49		Entered the load_model method of the File_Operation class
+2022-04-29/22:17:49		Model File FinalXGBModel_new loaded. Exited the load_model method of the Model_Finder class
+2022-04-29/22:18:20		Start of Prediction of api....
+2022-04-29/22:18:21		column has been removed
+2022-04-29/22:18:21		datafor ML:           department     region  ... awards_won? avg_training_score
+0  Sales & Marketing   region_7  ...           0                  0
+0  Sales & Marketing   region_7  ...           0                 49
+1         Operations  region_22  ...           0                 60
+2  Sales & Marketing  region_19  ...           0                 50
+3  Sales & Marketing  region_23  ...           0                 50
+
+[5 rows x 12 columns]
+2022-04-29/22:18:21		Entered the is_null_present method of the Preprocessor class
+2022-04-29/22:18:21		Data has been treated
+2022-04-29/22:18:21		Entered the outlier treatment method of the Preprocessor class
+2022-04-29/22:18:21		Exception occured in Outlier TReatment Method of the Preprocessor class. Exception message:  'module' object is not subscriptable
+2022-04-29/22:18:21		Outlier treatment failed. Exited the is_null_present method of the Preprocessor class
+2022-04-29/22:18:21		Entered the get_data method of the Data_Getter_training class
+2022-04-29/22:18:21		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-04-29/22:18:21		Entered the encode_categorical_columns method of the Preprocessor class
+2022-04-29/22:18:21		treating department column successfull
+2022-04-29/22:18:21		treating region column successfull
+2022-04-29/22:18:21		treating education column successfull
+2022-04-29/22:18:21		treating getting dummies for gender column successfull
+2022-04-29/22:18:21		Entered the scaling_of_Numcol method of the Preprocessor class
+2022-04-29/22:18:21		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-04-29/22:18:21		Input data for model: [[ 3.00000000e+00  4.84400000e+03  3.00000000e+00  2.20000000e+01
+  -4.54263633e+00  1.00000000e+00  0.00000000e+00  0.00000000e+00
+   0.00000000e+00 -4.73944417e+00  0.00000000e+00  1.00000000e+00
+   0.00000000e+00  1.00000000e+00]]
+2022-04-29/22:18:21		Entered the load_model method of the File_Operation class
+2022-04-29/22:18:21		Model File FinalXGBModel_new loaded. Exited the load_model method of the Model_Finder class
+2022-04-29/22:18:54		Start of Prediction of api....
+2022-04-29/22:18:54		column has been removed
+2022-04-29/22:18:54		datafor ML:           department     region  ... awards_won? avg_training_score
+0  Sales & Marketing   region_7  ...           0                  0
+0  Sales & Marketing   region_7  ...           0                 49
+1         Operations  region_22  ...           0                 60
+2  Sales & Marketing  region_19  ...           0                 50
+3  Sales & Marketing  region_23  ...           0                 50
+
+[5 rows x 12 columns]
+2022-04-29/22:18:54		Entered the is_null_present method of the Preprocessor class
+2022-04-29/22:18:54		Data has been treated
+2022-04-29/22:18:54		Entered the outlier treatment method of the Preprocessor class
+2022-04-29/22:18:54		Exception occured in Outlier TReatment Method of the Preprocessor class. Exception message:  'module' object is not subscriptable
+2022-04-29/22:18:54		Outlier treatment failed. Exited the is_null_present method of the Preprocessor class
+2022-04-29/22:18:54		Entered the get_data method of the Data_Getter_training class
+2022-04-29/22:18:54		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-04-29/22:18:54		Entered the encode_categorical_columns method of the Preprocessor class
+2022-04-29/22:18:54		treating department column successfull
+2022-04-29/22:18:54		treating region column successfull
+2022-04-29/22:18:54		treating education column successfull
+2022-04-29/22:18:54		treating getting dummies for gender column successfull
+2022-04-29/22:18:54		Entered the scaling_of_Numcol method of the Preprocessor class
+2022-04-29/22:18:54		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-04-29/22:18:54		Input data for model: [[ 3.00000000e+00  4.84400000e+03  3.00000000e+00  2.20000000e+01
+  -4.54263633e+00  1.00000000e+00  0.00000000e+00  0.00000000e+00
+   0.00000000e+00 -4.73944417e+00  0.00000000e+00  1.00000000e+00
+   0.00000000e+00  1.00000000e+00]]
+2022-04-29/22:18:54		Entered the load_model method of the File_Operation class
+2022-04-29/22:18:54		Model File FinalXGBModel_new loaded. Exited the load_model method of the Model_Finder class
+2022-04-29/22:19:20		Start of Prediction of api....
+2022-04-29/22:19:20		column has been removed
+2022-04-29/22:19:20		datafor ML:           department     region  ... awards_won? avg_training_score
+0  Sales & Marketing   region_7  ...           1                 88
+0  Sales & Marketing   region_7  ...           0                 49
+1         Operations  region_22  ...           0                 60
+2  Sales & Marketing  region_19  ...           0                 50
+3  Sales & Marketing  region_23  ...           0                 50
+
+[5 rows x 12 columns]
+2022-04-29/22:19:20		Entered the is_null_present method of the Preprocessor class
+2022-04-29/22:19:20		Data has been treated
+2022-04-29/22:19:20		Entered the outlier treatment method of the Preprocessor class
+2022-04-29/22:19:20		Exception occured in Outlier TReatment Method of the Preprocessor class. Exception message:  'module' object is not subscriptable
+2022-04-29/22:19:20		Outlier treatment failed. Exited the is_null_present method of the Preprocessor class
+2022-04-29/22:19:20		Entered the get_data method of the Data_Getter_training class
+2022-04-29/22:19:21		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-04-29/22:19:21		Entered the encode_categorical_columns method of the Preprocessor class
+2022-04-29/22:19:21		treating department column successfull
+2022-04-29/22:19:21		treating region column successfull
+2022-04-29/22:19:21		treating education column successfull
+2022-04-29/22:19:21		treating getting dummies for gender column successfull
+2022-04-29/22:19:21		Entered the scaling_of_Numcol method of the Preprocessor class
+2022-04-29/22:19:21		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-04-29/22:19:21		Input data for model: [[3.00000000e+00 4.84400000e+03 3.00000000e+00 3.30000000e+01
+  6.94145190e+00 5.00000000e+00 4.40000000e+01 1.00000000e+00
+  1.00000000e+00 1.84065958e+00 0.00000000e+00 1.00000000e+00
+  0.00000000e+00 1.00000000e+00]]
+2022-04-29/22:19:21		Entered the load_model method of the File_Operation class
+2022-04-29/22:19:21		Model File FinalXGBModel_new loaded. Exited the load_model method of the Model_Finder class
+2022-04-29/22:08:10		Start of Prediction of api....
+2022-04-29/22:08:10		column has been removed
+2022-04-29/22:08:10		datafor ML:           department     region  ... awards_won? avg_training_score
+0         Technology  region_26  ...           0                  0
+0  Sales & Marketing   region_7  ...           0                 49
+1         Operations  region_22  ...           0                 60
+2  Sales & Marketing  region_19  ...           0                 50
+3  Sales & Marketing  region_23  ...           0                 50
+
+[5 rows x 12 columns]
+2022-04-29/22:08:10		Entered the is_null_present method of the Preprocessor class
+2022-04-29/22:08:10		Data has been treated
+2022-04-29/22:08:10		Entered the outlier treatment method of the Preprocessor class
+2022-04-29/22:08:10		Exception occured in Outlier TReatment Method of the Preprocessor class. Exception message:  'module' object is not subscriptable
+2022-04-29/22:08:10		Outlier treatment failed. Exited the is_null_present method of the Preprocessor class
+2022-04-29/22:08:10		Entered the get_data method of the Data_Getter_training class
+2022-04-29/22:08:10		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-04-29/22:08:10		Entered the encode_categorical_columns method of the Preprocessor class
+2022-04-29/22:08:10		treating department column successfull
+2022-04-29/22:08:10		treating region column successfull
+2022-04-29/22:08:10		treating education column successfull
+2022-04-29/22:08:11		treating getting dummies for gender column successfull
+2022-04-29/22:08:11		Entered the scaling_of_Numcol method of the Preprocessor class
+2022-04-29/22:08:11		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-04-29/22:08:11		Input data for model: [[ 8.00000000e+00  2.26100000e+03  2.00000000e+00  0.00000000e+00
+  -4.41216254e+00  3.00000000e+00  1.00000000e+00  1.00000000e+00
+   0.00000000e+00 -4.73944417e+00  0.00000000e+00  1.00000000e+00
+   0.00000000e+00  1.00000000e+00]]
+2022-04-29/22:08:11		Entered the load_model method of the File_Operation class
+2022-04-29/22:08:11		Model File FinalXGBModel_new loaded. Exited the load_model method of the Model_Finder class
+2022-04-29/22:20:54		Start of Prediction of api....
+2022-04-29/22:20:54		column has been removed
+2022-04-29/22:20:54		datafor ML:           department     region  ... awards_won? avg_training_score
+0         Technology  region_26  ...           0                  0
+0  Sales & Marketing   region_7  ...           0                 49
+1         Operations  region_22  ...           0                 60
+2  Sales & Marketing  region_19  ...           0                 50
+3  Sales & Marketing  region_23  ...           0                 50
+
+[5 rows x 12 columns]
+2022-04-29/22:20:54		Entered the is_null_present method of the Preprocessor class
+2022-04-29/22:20:54		Data has been treated
+2022-04-29/22:20:54		Entered the outlier treatment method of the Preprocessor class
+2022-04-29/22:20:54		Exception occured in Outlier TReatment Method of the Preprocessor class. Exception message:  'module' object is not subscriptable
+2022-04-29/22:20:54		Outlier treatment failed. Exited the is_null_present method of the Preprocessor class
+2022-04-29/22:20:54		Entered the get_data method of the Data_Getter_training class
+2022-04-29/22:20:54		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-04-29/22:20:54		Entered the encode_categorical_columns method of the Preprocessor class
+2022-04-29/22:20:54		treating department column successfull
+2022-04-29/22:20:54		treating region column successfull
+2022-04-29/22:20:54		treating education column successfull
+2022-04-29/22:20:54		treating getting dummies for gender column successfull
+2022-04-29/22:20:54		Entered the scaling_of_Numcol method of the Preprocessor class
+2022-04-29/22:20:54		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-04-29/22:20:54		Input data for model: [[ 8.00000000e+00  2.26100000e+03  2.00000000e+00  0.00000000e+00
+  -4.41216254e+00  3.00000000e+00  1.00000000e+00  1.00000000e+00
+   0.00000000e+00 -4.73944417e+00  0.00000000e+00  1.00000000e+00
+   0.00000000e+00  1.00000000e+00]]
+2022-04-29/22:20:54		Entered the load_model method of the File_Operation class
+2022-04-29/22:20:54		Model File FinalXGBModel_new loaded. Exited the load_model method of the Model_Finder class
+2022-04-29/22:21:19		Start of Prediction of api....
+2022-04-29/22:21:19		column has been removed
+2022-04-29/22:21:19		datafor ML:           department     region  ... awards_won? avg_training_score
+0         Technology  region_26  ...           0                  0
+0  Sales & Marketing   region_7  ...           0                 49
+1         Operations  region_22  ...           0                 60
+2  Sales & Marketing  region_19  ...           0                 50
+3  Sales & Marketing  region_23  ...           0                 50
+
+[5 rows x 12 columns]
+2022-04-29/22:21:19		Entered the is_null_present method of the Preprocessor class
+2022-04-29/22:21:19		Data has been treated
+2022-04-29/22:21:19		Entered the outlier treatment method of the Preprocessor class
+2022-04-29/22:21:19		Exception occured in Outlier TReatment Method of the Preprocessor class. Exception message:  'module' object is not subscriptable
+2022-04-29/22:21:19		Outlier treatment failed. Exited the is_null_present method of the Preprocessor class
+2022-04-29/22:21:19		Entered the get_data method of the Data_Getter_training class
+2022-04-29/22:21:19		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-04-29/22:21:19		Entered the encode_categorical_columns method of the Preprocessor class
+2022-04-29/22:21:20		treating department column successfull
+2022-04-29/22:21:20		treating region column successfull
+2022-04-29/22:21:20		treating education column successfull
+2022-04-29/22:21:20		treating getting dummies for gender column successfull
+2022-04-29/22:21:20		Entered the scaling_of_Numcol method of the Preprocessor class
+2022-04-29/22:21:20		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-04-29/22:21:20		Input data for model: [[ 8.00000000e+00  2.26100000e+03  2.00000000e+00  0.00000000e+00
+  -4.41216254e+00  3.00000000e+00  1.00000000e+00  1.00000000e+00
+   0.00000000e+00 -4.73944417e+00  0.00000000e+00  1.00000000e+00
+   0.00000000e+00  1.00000000e+00]]
+2022-04-29/22:21:20		Entered the load_model method of the File_Operation class
+2022-04-29/22:21:20		Model File FinalXGBModel_new loaded. Exited the load_model method of the Model_Finder class
+2022-04-29/22:21:28		Start of Prediction of api....
+2022-04-29/22:21:28		column has been removed
+2022-04-29/22:21:28		datafor ML:           department     region  ... awards_won? avg_training_score
+0         Technology  region_26  ...           0                  0
+0  Sales & Marketing   region_7  ...           0                 49
+1         Operations  region_22  ...           0                 60
+2  Sales & Marketing  region_19  ...           0                 50
+3  Sales & Marketing  region_23  ...           0                 50
+
+[5 rows x 12 columns]
+2022-04-29/22:21:28		Entered the is_null_present method of the Preprocessor class
+2022-04-29/22:21:28		Data has been treated
+2022-04-29/22:21:28		Entered the outlier treatment method of the Preprocessor class
+2022-04-29/22:21:28		Exception occured in Outlier TReatment Method of the Preprocessor class. Exception message:  'module' object is not subscriptable
+2022-04-29/22:21:28		Outlier treatment failed. Exited the is_null_present method of the Preprocessor class
+2022-04-29/22:21:28		Entered the get_data method of the Data_Getter_training class
+2022-04-29/22:21:28		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-04-29/22:21:28		Entered the encode_categorical_columns method of the Preprocessor class
+2022-04-29/22:21:28		treating department column successfull
+2022-04-29/22:21:28		treating region column successfull
+2022-04-29/22:21:28		treating education column successfull
+2022-04-29/22:21:28		treating getting dummies for gender column successfull
+2022-04-29/22:21:28		Entered the scaling_of_Numcol method of the Preprocessor class
+2022-04-29/22:21:28		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-04-29/22:21:28		Input data for model: [[ 8.00000000e+00  2.26100000e+03  2.00000000e+00  0.00000000e+00
+  -4.41216254e+00  3.00000000e+00  1.00000000e+00  1.00000000e+00
+   0.00000000e+00 -4.73944417e+00  0.00000000e+00  1.00000000e+00
+   0.00000000e+00  1.00000000e+00]]
+2022-04-29/22:21:28		Entered the load_model method of the File_Operation class
+2022-04-29/22:21:28		Model File FinalXGBModel_new loaded. Exited the load_model method of the Model_Finder class
+2022-04-29/22:21:43		Start of Prediction of api....
+2022-04-29/22:21:43		column has been removed
+2022-04-29/22:21:43		datafor ML:           department     region  ... awards_won? avg_training_score
+0         Technology  region_26  ...           0                  0
+0  Sales & Marketing   region_7  ...           0                 49
+1         Operations  region_22  ...           0                 60
+2  Sales & Marketing  region_19  ...           0                 50
+3  Sales & Marketing  region_23  ...           0                 50
+
+[5 rows x 12 columns]
+2022-04-29/22:21:43		Entered the is_null_present method of the Preprocessor class
+2022-04-29/22:21:43		Data has been treated
+2022-04-29/22:21:43		Entered the outlier treatment method of the Preprocessor class
+2022-04-29/22:21:43		Exception occured in Outlier TReatment Method of the Preprocessor class. Exception message:  'module' object is not subscriptable
+2022-04-29/22:21:43		Outlier treatment failed. Exited the is_null_present method of the Preprocessor class
+2022-04-29/22:21:43		Entered the get_data method of the Data_Getter_training class
+2022-04-29/22:21:43		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-04-29/22:21:43		Entered the encode_categorical_columns method of the Preprocessor class
+2022-04-29/22:21:43		treating department column successfull
+2022-04-29/22:21:43		treating region column successfull
+2022-04-29/22:21:43		treating education column successfull
+2022-04-29/22:21:43		treating getting dummies for gender column successfull
+2022-04-29/22:21:43		Entered the scaling_of_Numcol method of the Preprocessor class
+2022-04-29/22:21:43		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-04-29/22:21:43		Input data for model: [[ 8.00000000e+00  2.26100000e+03  2.00000000e+00  0.00000000e+00
+  -4.41216254e+00  3.00000000e+00  1.00000000e+00  1.00000000e+00
+   0.00000000e+00 -4.73944417e+00  0.00000000e+00  1.00000000e+00
+   0.00000000e+00  1.00000000e+00]]
+2022-04-29/22:21:43		Entered the load_model method of the File_Operation class
+2022-04-29/22:21:43		Model File FinalXGBModel_new loaded. Exited the load_model method of the Model_Finder class
+2022-04-29/22:25:28		Start of Prediction of api....
+2022-04-29/22:25:28		column has been removed
+2022-04-29/22:25:28		datafor ML:           department     region  ... awards_won? avg_training_score
+0  Sales & Marketing   region_7  ...           1                 88
+0  Sales & Marketing   region_7  ...           0                 49
+1         Operations  region_22  ...           0                 60
+2  Sales & Marketing  region_19  ...           0                 50
+3  Sales & Marketing  region_23  ...           0                 50
+
+[5 rows x 12 columns]
+2022-04-29/22:25:28		Entered the is_null_present method of the Preprocessor class
+2022-04-29/22:25:28		Data has been treated
+2022-04-29/22:25:28		Entered the outlier treatment method of the Preprocessor class
+2022-04-29/22:25:28		Exception occured in Outlier TReatment Method of the Preprocessor class. Exception message:  'module' object is not subscriptable
+2022-04-29/22:25:28		Outlier treatment failed. Exited the is_null_present method of the Preprocessor class
+2022-04-29/22:25:28		Entered the get_data method of the Data_Getter_training class
+2022-04-29/22:25:28		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-04-29/22:25:28		Entered the encode_categorical_columns method of the Preprocessor class
+2022-04-29/22:25:28		treating department column successfull
+2022-04-29/22:25:28		treating region column successfull
+2022-04-29/22:25:28		treating education column successfull
+2022-04-29/22:25:28		treating getting dummies for gender column successfull
+2022-04-29/22:25:28		Entered the scaling_of_Numcol method of the Preprocessor class
+2022-04-29/22:25:28		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-04-29/22:25:28		Input data for model: [[3.00000000e+00 4.84400000e+03 3.00000000e+00 3.30000000e+01
+  6.94145190e+00 5.00000000e+00 4.40000000e+01 1.00000000e+00
+  1.00000000e+00 1.84065958e+00 0.00000000e+00 1.00000000e+00
+  0.00000000e+00 1.00000000e+00]]
+2022-04-29/22:25:28		Entered the load_model method of the File_Operation class
+2022-04-29/22:25:28		Model File FinalXGBModel_new loaded. Exited the load_model method of the Model_Finder class
+2022-04-29/22:26:49		Start of Prediction of api....
+2022-04-29/22:26:49		column has been removed
+2022-04-29/22:26:49		datafor ML:           department     region  ... awards_won? avg_training_score
+0         Technology  region_26  ...           0                  0
+0  Sales & Marketing   region_7  ...           0                 49
+1         Operations  region_22  ...           0                 60
+2  Sales & Marketing  region_19  ...           0                 50
+3  Sales & Marketing  region_23  ...           0                 50
+
+[5 rows x 12 columns]
+2022-04-29/22:26:49		Entered the is_null_present method of the Preprocessor class
+2022-04-29/22:26:49		Data has been treated
+2022-04-29/22:26:49		Entered the outlier treatment method of the Preprocessor class
+2022-04-29/22:26:49		Exception occured in Outlier TReatment Method of the Preprocessor class. Exception message:  'module' object is not subscriptable
+2022-04-29/22:26:49		Outlier treatment failed. Exited the is_null_present method of the Preprocessor class
+2022-04-29/22:26:49		Entered the get_data method of the Data_Getter_training class
+2022-04-29/22:26:49		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-04-29/22:26:49		Entered the encode_categorical_columns method of the Preprocessor class
+2022-04-29/22:26:49		treating department column successfull
+2022-04-29/22:26:49		treating region column successfull
+2022-04-29/22:26:49		treating education column successfull
+2022-04-29/22:26:50		treating getting dummies for gender column successfull
+2022-04-29/22:26:50		Entered the scaling_of_Numcol method of the Preprocessor class
+2022-04-29/22:26:50		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-04-29/22:26:50		Input data for model: [[ 8.00000000e+00  2.26100000e+03  2.00000000e+00  0.00000000e+00
+  -4.41216254e+00  3.00000000e+00  1.00000000e+00  1.00000000e+00
+   0.00000000e+00 -4.73944417e+00  0.00000000e+00  1.00000000e+00
+   0.00000000e+00  1.00000000e+00]]
+2022-04-29/22:26:50		Entered the load_model method of the File_Operation class
+2022-04-29/22:26:50		Model File FinalXGBModel_new loaded. Exited the load_model method of the Model_Finder class
+2022-04-29/22:27:17		Start of Prediction of api....
+2022-04-29/22:27:17		column has been removed
+2022-04-29/22:27:17		datafor ML:           department     region  ... awards_won? avg_training_score
+0  Sales & Marketing   region_7  ...           1                  3
+0  Sales & Marketing   region_7  ...           0                 49
+1         Operations  region_22  ...           0                 60
+2  Sales & Marketing  region_19  ...           0                 50
+3  Sales & Marketing  region_23  ...           0                 50
+
+[5 rows x 12 columns]
+2022-04-29/22:27:17		Entered the is_null_present method of the Preprocessor class
+2022-04-29/22:27:17		Data has been treated
+2022-04-29/22:27:17		Entered the outlier treatment method of the Preprocessor class
+2022-04-29/22:27:17		Exception occured in Outlier TReatment Method of the Preprocessor class. Exception message:  'module' object is not subscriptable
+2022-04-29/22:27:17		Outlier treatment failed. Exited the is_null_present method of the Preprocessor class
+2022-04-29/22:27:17		Entered the get_data method of the Data_Getter_training class
+2022-04-29/22:27:17		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-04-29/22:27:17		Entered the encode_categorical_columns method of the Preprocessor class
+2022-04-29/22:27:17		treating department column successfull
+2022-04-29/22:27:17		treating region column successfull
+2022-04-29/22:27:17		treating education column successfull
+2022-04-29/22:27:17		treating getting dummies for gender column successfull
+2022-04-29/22:27:17		Entered the scaling_of_Numcol method of the Preprocessor class
+2022-04-29/22:27:17		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-04-29/22:27:17		Input data for model: [[ 3.00000000e+00  4.84400000e+03  3.00000000e+00  3.30000000e+01
+  -4.15120273e+00  1.00000000e+00  3.00000000e+00  1.00000000e+00
+   1.00000000e+00 -4.51521888e+00  0.00000000e+00  1.00000000e+00
+   0.00000000e+00  1.00000000e+00]]
+2022-04-29/22:27:17		Entered the load_model method of the File_Operation class
+2022-04-29/22:27:17		Model File FinalXGBModel_new loaded. Exited the load_model method of the Model_Finder class
+2022-04-29/22:27:35		Start of Prediction of api....
+2022-04-29/22:27:36		column has been removed
+2022-04-29/22:27:36		datafor ML:           department     region  ... awards_won? avg_training_score
+0  Sales & Marketing   region_7  ...           1                  3
+0  Sales & Marketing   region_7  ...           0                 49
+1         Operations  region_22  ...           0                 60
+2  Sales & Marketing  region_19  ...           0                 50
+3  Sales & Marketing  region_23  ...           0                 50
+
+[5 rows x 12 columns]
+2022-04-29/22:27:36		Entered the is_null_present method of the Preprocessor class
+2022-04-29/22:27:36		Data has been treated
+2022-04-29/22:27:36		Entered the outlier treatment method of the Preprocessor class
+2022-04-29/22:27:36		Exception occured in Outlier TReatment Method of the Preprocessor class. Exception message:  'module' object is not subscriptable
+2022-04-29/22:27:36		Outlier treatment failed. Exited the is_null_present method of the Preprocessor class
+2022-04-29/22:27:36		Entered the get_data method of the Data_Getter_training class
+2022-04-29/22:27:36		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-04-29/22:27:36		Entered the encode_categorical_columns method of the Preprocessor class
+2022-04-29/22:27:36		treating department column successfull
+2022-04-29/22:27:36		treating region column successfull
+2022-04-29/22:27:36		treating education column successfull
+2022-04-29/22:27:36		treating getting dummies for gender column successfull
+2022-04-29/22:27:36		Entered the scaling_of_Numcol method of the Preprocessor class
+2022-04-29/22:27:36		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-04-29/22:27:36		Input data for model: [[ 3.00000000e+00  4.84400000e+03  3.00000000e+00  3.30000000e+01
+  -4.15120273e+00  1.00000000e+00  3.00000000e+00  1.00000000e+00
+   1.00000000e+00 -4.51521888e+00  0.00000000e+00  1.00000000e+00
+   0.00000000e+00  1.00000000e+00]]
+2022-04-29/22:27:36		Entered the load_model method of the File_Operation class
+2022-04-29/22:27:36		Model File FinalXGBModel_new loaded. Exited the load_model method of the Model_Finder class
+2022-04-29/22:27:39		Start of Prediction of api....
+2022-04-29/22:27:39		column has been removed
+2022-04-29/22:27:39		datafor ML:           department     region  ... awards_won? avg_training_score
+0  Sales & Marketing   region_7  ...           1                  3
+0  Sales & Marketing   region_7  ...           0                 49
+1         Operations  region_22  ...           0                 60
+2  Sales & Marketing  region_19  ...           0                 50
+3  Sales & Marketing  region_23  ...           0                 50
+
+[5 rows x 12 columns]
+2022-04-29/22:27:39		Entered the is_null_present method of the Preprocessor class
+2022-04-29/22:27:39		Data has been treated
+2022-04-29/22:27:39		Entered the outlier treatment method of the Preprocessor class
+2022-04-29/22:27:39		Exception occured in Outlier TReatment Method of the Preprocessor class. Exception message:  'module' object is not subscriptable
+2022-04-29/22:27:39		Outlier treatment failed. Exited the is_null_present method of the Preprocessor class
+2022-04-29/22:27:39		Entered the get_data method of the Data_Getter_training class
+2022-04-29/22:27:40		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-04-29/22:27:40		Entered the encode_categorical_columns method of the Preprocessor class
+2022-04-29/22:27:40		treating department column successfull
+2022-04-29/22:27:40		treating region column successfull
+2022-04-29/22:27:40		treating education column successfull
+2022-04-29/22:27:40		treating getting dummies for gender column successfull
+2022-04-29/22:27:40		Entered the scaling_of_Numcol method of the Preprocessor class
+2022-04-29/22:27:40		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-04-29/22:27:40		Input data for model: [[ 3.00000000e+00  4.84400000e+03  3.00000000e+00  3.30000000e+01
+  -4.15120273e+00  1.00000000e+00  3.00000000e+00  1.00000000e+00
+   1.00000000e+00 -4.51521888e+00  0.00000000e+00  1.00000000e+00
+   0.00000000e+00  1.00000000e+00]]
+2022-04-29/22:27:40		Entered the load_model method of the File_Operation class
+2022-04-29/22:27:40		Model File FinalXGBModel_new loaded. Exited the load_model method of the Model_Finder class
+2022-04-29/22:37:12		Start of Prediction of api....
+2022-04-29/22:37:12		column has been removed
+2022-04-29/22:37:12		datafor ML:           department     region  ... awards_won? avg_training_score
+0  Sales & Marketing   region_7  ...           1                 88
+0  Sales & Marketing   region_7  ...           0                 49
+1         Operations  region_22  ...           0                 60
+2  Sales & Marketing  region_19  ...           0                 50
+3  Sales & Marketing  region_23  ...           0                 50
+
+[5 rows x 12 columns]
+2022-04-29/22:37:12		Entered the is_null_present method of the Preprocessor class
+2022-04-29/22:37:12		Data has been treated
+2022-04-29/22:37:12		Entered the outlier treatment method of the Preprocessor class
+2022-04-29/22:37:12		Exception occured in Outlier TReatment Method of the Preprocessor class. Exception message:  'module' object is not subscriptable
+2022-04-29/22:37:12		Outlier treatment failed. Exited the is_null_present method of the Preprocessor class
+2022-04-29/22:37:12		Entered the get_data method of the Data_Getter_training class
+2022-04-29/22:37:12		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-04-29/22:37:12		Entered the encode_categorical_columns method of the Preprocessor class
+2022-04-29/22:37:12		treating department column successfull
+2022-04-29/22:37:12		treating region column successfull
+2022-04-29/22:37:12		treating education column successfull
+2022-04-29/22:37:12		treating getting dummies for gender column successfull
+2022-04-29/22:37:12		Entered the scaling_of_Numcol method of the Preprocessor class
+2022-04-29/22:37:12		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-04-29/22:37:12		Input data for model: [[3.00000000e+00 4.84400000e+03 3.00000000e+00 2.60000000e+01
+  5.50698133e+00 1.00000000e+00 7.80000000e+01 1.00000000e+00
+  1.00000000e+00 1.84065958e+00 0.00000000e+00 1.00000000e+00
+  0.00000000e+00 1.00000000e+00]]
+2022-04-29/22:37:12		Entered the load_model method of the File_Operation class
+2022-04-29/22:37:12		Model File FinalXGBModel_new loaded. Exited the load_model method of the Model_Finder class
+2022-04-29/22:38:42		Start of Prediction of api....
+2022-04-29/22:38:42		column has been removed
+2022-04-29/22:38:42		datafor ML:           department     region  ... awards_won? avg_training_score
+0          Analytics  region_20  ...           0                  8
+0  Sales & Marketing   region_7  ...           0                 49
+1         Operations  region_22  ...           0                 60
+2  Sales & Marketing  region_19  ...           0                 50
+3  Sales & Marketing  region_23  ...           0                 50
+
+[5 rows x 12 columns]
+2022-04-29/22:38:42		Entered the is_null_present method of the Preprocessor class
+2022-04-29/22:38:42		Data has been treated
+2022-04-29/22:38:42		Entered the outlier treatment method of the Preprocessor class
+2022-04-29/22:38:42		Exception occured in Outlier TReatment Method of the Preprocessor class. Exception message:  'module' object is not subscriptable
+2022-04-29/22:38:42		Outlier treatment failed. Exited the is_null_present method of the Preprocessor class
+2022-04-29/22:38:42		Entered the get_data method of the Data_Getter_training class
+2022-04-29/22:38:42		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-04-29/22:38:42		Entered the encode_categorical_columns method of the Preprocessor class
+2022-04-29/22:38:42		treating department column successfull
+2022-04-29/22:38:42		treating region column successfull
+2022-04-29/22:38:42		treating education column successfull
+2022-04-29/22:38:42		treating getting dummies for gender column successfull
+2022-04-29/22:38:42		Entered the scaling_of_Numcol method of the Preprocessor class
+2022-04-29/22:38:42		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-04-29/22:38:42		Input data for model: [[  6.         851.           3.          26.          -3.89022744
+    1.           4.           0.           0.          -4.14148275
+    0.           1.           0.           1.        ]]
+2022-04-29/22:38:42		Entered the load_model method of the File_Operation class
+2022-04-29/22:38:42		Model File FinalXGBModel_new loaded. Exited the load_model method of the Model_Finder class

@@ -1,0 +1,218 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="{{url_for('static',filename='css/style.css')}}">
+    <title>Employee Promotion</title>
+    <style>
+
+
+div.transbox {
+  margin: 30px;
+  background-color: #ffffff;
+
+  opacity: 0.5;
+}
+div.transbox p {
+  margin: 2%;
+  font-weight: bold;
+  color: Blue;
+}
+
+</style>
+
+  </head>
+
+  <body  class="bg-back" style="background-color:#33FFEE    ;">
+
+<div class="container">
+      <div class="row">
+
+        <div >
+        <h1 class="text-center">Employee Promotion Enquiry</h1>
+            <form   class="row g-3 " action="/" method="post">
+              <div class="col-md-12">
+                <b><label for="name" class="form-label">Name</label></b>
+                <input type="text" class="form-control" name="name" id="name" placeholder="Enter name...." required>
+
+              </div>
+              <div class="col-md-6">
+                <b><label for="department" class="form-label">Department</label></b>
+                <select id="department" class="form-select" name="department" required>
+
+                  <option value="Sales & Marketing">Sales & Marketing</option>
+                    <option value="Operations">Operations</option>
+                  <option value="Technology">Technology</option>
+                    <option value="Analytics">Analytics</option>
+                  <option value="R&D">R&D</option>
+                    <option value="Procurement">Procurement</option>
+                  <option value="Finance">Finance</option>
+                    <option value="HR">HR</option>
+                  <option value="Legal">Legal</option>
+                </select>
+              </div>
+              <div class="col-md-6">
+                <b><label for="region" class="form-label">Region</label></b>
+                <select id="region" class="form-select" name="region" required>
+
+                  <option value="region_7">region_7</option>
+                    <option value="region_22">region_22</option>
+                  <option value="region_19">region_19</option>
+                    <option value="region_23">region_23</option>
+                  <option value="region_26">region_26</option>
+                    <option value="region_2">region_2</option>
+                  <option value="region_20">region_20</option>
+                    <option value="region_34">region_34</option>
+                  <option value="region_1">region_1</option>
+                  <option value="region_4">region_4</option>
+                  <option value="region_29">region_29</option>
+                  <option value="region_31">region_31</option>
+                  <option value="region_15">region_15</option>
+                  <option value="region_14">region_14</option>
+                  <option value="region_11">region_11</option>
+                  <option value="region_5">region_5</option>
+                  <option value="region_28">region_28</option>
+                  <option value="region_17">region_17</option>
+                   <option value="region_13">region_13</option>
+                  <option value="region_16">region_16</option>
+                  <option value="region_25">region_25</option>
+                  <option value="region_10">region_10</option>
+                  <option value="region_27">region_27</option>
+                  <option value="region_30">region_30</option>
+                   <option value="region_12">region_12</option>
+                  <option value="region_21">region_21</option>
+                  <option value="region_8">region_8</option>
+                  <option value="region_32">region_32</option>
+                  <option value="region_6">region_6</option>
+                  <option value="region_33">region_33</option>
+                  <option value="region_21">region_21</option>
+                  <option value="region_3">region_3</option>
+                  <option value="region_9">region_9</option>
+                  <option value="region_18">region_18</option>
+                </select>
+              </div>
+              <div class="col-6">
+                <b><label for="education" class="form-label">Education</label></b>
+                <select id="education" class="form-select" name="education" required>
+
+                  <option value="Master's & above">Master's & above</option>
+                    <option value="Bachelor's">Bachelor's</option>
+                  <option value="Below Secondary">Below Secondary</option>
+
+                </select>
+
+              </div>
+              <div class="col-6">
+                <b><label for="gender" class="form-label">Gender</label></b>
+                 <select id="gender" class="form-select" name="gender" required>
+
+                  <option value="m">Male</option>
+                    <option value="f">Female</option>
+
+                </select>
+              </div>
+              <div class="col-md-2">
+                  <b><label for="recruitment_channel" class="form-label">Recruitment_Channel</label></b>
+                <select id="recruitment_channel" class="form-select" name="Recruitment_Channel" required>
+
+                  <option value="sourcing">sourcing</option>
+                    <option value="other">other</option>
+                  <option value="referred">referred</option>
+
+
+                </select>
+              </div>
+              <div class="col-md-4">
+                <b><label for="no_of_trainings" class="form-label">no_of_trainings</label></b>
+                <input type="number" class="form-control" name="no_of_trainings" id="no_of_trainings" placeholder="no_of_trainings...." required>
+
+
+
+              </div>
+              <div class="col-md-6">
+                <b><label for="age" class="form-label">Age</label></b>
+                <input type="number" class="form-control" name="age" id="age" placeholder="age...." required>
+              </div>
+              <div class="col-md-6">
+                <b><label for="previous_year_rating" class="form-label">Previous_Year_Rating</label></b>
+                <select id="previous_year_rating" class="form-select" name="Previous_Year_Rating" required>
+
+                  <option value=1.0>1.0</option>
+                    <option value=2.0>2.0</option>
+                    <option value=3.0>3.0</option>
+                    <option value=4.0>4.0</option>
+                  <option value=5.0>5.0</option>
+
+
+                </select>
+              </div>
+              <div class="col-md-6">
+                <b><label for="length_of_service" class="form-label">length_of_service</label></b>
+                <input type="number" class="form-control" name="length_of_service" id="length_of_service" placeholder="length_of_service...." required>
+
+              </div>
+              <div class="col-md-4">
+                <b><label for="KPIs_met >80%" class="form-label">KPIs_met >80%</label></b>
+                <select id="KPIs_met >80%" class="form-select" name="KPIs_met >80%" required>
+
+                  <option value=1>1</option>
+                  <option value=0>0</option>
+
+
+                </select>
+
+              </div>
+              <div class="col-md-4">
+                <b><label for="avg_training_score" class="form-label">Avg_Training_Score</label></b>
+                <input type="number" class="form-control" name="avg_training_score" id="avg_training_score" placeholder="avg_training_score...." required>
+
+              </div>
+              <div class="col-md-4">
+                <b><label for="awards_won?" class="form-label">awards_won?</label></b>
+                <select id="awards_won?" class="form-select" name="awards_won?" required>
+
+                  <option value=1>1</option>
+                  <option value=0>0</option>
+
+
+                </select>
+              </div>
+
+
+
+              <div style="text-align:center;" class="col-12">
+
+                <button type="submit" class="btn btn-primary">Predict Promotion</button>
+
+              </div>
+            </form>
+          <div class="transbox">
+
+          <p style="font-size:2vw;text-align: center; ">{{pred_data_msg}}</p>
+            </div>
+
+        </div>
+
+      </div>
+
+
+</div>
+
+
+    <!-- Optional JavaScript; choose one of the two! -->
+
+    <!-- Option 1: Bootstrap Bundle with Popper -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-/bQdsTh/da6pkI1MST/rWKFNjaCP5gBSY4sEBT38Q/9RBh9AH40zEOg7Hlq2THRZ" crossorigin="anonymous"></script>
+
+    <!-- Option 2: Separate Popper and Bootstrap JS -->
+
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js" integrity="sha384-W8fXfP3gkOKtndU4JGtKDvXbO53Wy8SZCQHczT5FMiiqmQfUpWbYdTil/SxwZgAN" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.min.js" integrity="sha384-skAcpIdS7UcVUC05LJ9Dxay8AXcDYfBJqt1CJ85S/CFujBsIzCIv+l9liuYLaMQ/" crossorigin="anonymous"></script>
+
+  </body>
+</html>
